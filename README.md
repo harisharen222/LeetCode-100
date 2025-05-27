@@ -7,6 +7,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 ## Array
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/harisharen222/LeetCode-100/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/harisharen222/LeetCode-100/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
@@ -16,4 +17,8 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/harisharen222/LeetCode-100/tree/master/0217-contains-duplicate) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/harisharen222/LeetCode-100/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
