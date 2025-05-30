@@ -34,4 +34,8 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/harisharen222/LeetCode-100/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/harisharen222/LeetCode-100/tree/master/0035-search-insert-position) |
+## String
+|  |
+| ------- |
+| [0058-length-of-last-word](https://github.com/harisharen222/LeetCode-100/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->
