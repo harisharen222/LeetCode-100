@@ -7,6 +7,7 @@ public:
         for(auto val : set1){
             if(set2.find(val) != set2.end()){
                 ans.push_back(val);
+                set2.erase(val);
             }
         }
         return ans;
