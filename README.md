@@ -24,6 +24,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 | [0724-find-pivot-index](https://github.com/harisharen222/LeetCode-100/tree/master/0724-find-pivot-index) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/harisharen222/LeetCode-100/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1319-unique-number-of-occurrences](https://github.com/harisharen222/LeetCode-100/tree/master/1319-unique-number-of-occurrences) |
+| [2102-find-the-middle-index-in-array](https://github.com/harisharen222/LeetCode-100/tree/master/2102-find-the-middle-index-in-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -83,4 +84,5 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/harisharen222/LeetCode-100/tree/master/0724-find-pivot-index) |
+| [2102-find-the-middle-index-in-array](https://github.com/harisharen222/LeetCode-100/tree/master/2102-find-the-middle-index-in-array) |
 <!---LeetCode Topics End-->
