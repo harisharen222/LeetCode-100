@@ -18,6 +18,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 | [0136-single-number](https://github.com/harisharen222/LeetCode-100/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/harisharen222/LeetCode-100/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0164-maximum-gap](https://github.com/harisharen222/LeetCode-100/tree/master/0164-maximum-gap) |
+| [0189-rotate-array](https://github.com/harisharen222/LeetCode-100/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/harisharen222/LeetCode-100/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/harisharen222/LeetCode-100/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/harisharen222/LeetCode-100/tree/master/0238-product-of-array-except-self) |
@@ -87,6 +88,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 | [0031-next-permutation](https://github.com/harisharen222/LeetCode-100/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/harisharen222/LeetCode-100/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/harisharen222/LeetCode-100/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/harisharen222/LeetCode-100/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/harisharen222/LeetCode-100/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/harisharen222/LeetCode-100/tree/master/0349-intersection-of-two-arrays) |
 ## Bit Manipulation
@@ -98,6 +100,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/harisharen222/LeetCode-100/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/harisharen222/LeetCode-100/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/harisharen222/LeetCode-100/tree/master/0268-missing-number) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/harisharen222/LeetCode-100/tree/master/1683-maximum-number-of-coins-you-can-get) |
 ## Prefix Sum
