@@ -7,6 +7,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 ## Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/harisharen222/LeetCode-100/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/harisharen222/LeetCode-100/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/harisharen222/LeetCode-100/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/harisharen222/LeetCode-100/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -46,6 +47,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/harisharen222/LeetCode-100/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/harisharen222/LeetCode-100/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/harisharen222/LeetCode-100/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/harisharen222/LeetCode-100/tree/master/0164-maximum-gap) |
@@ -85,6 +87,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/harisharen222/LeetCode-100/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/harisharen222/LeetCode-100/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/harisharen222/LeetCode-100/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/harisharen222/LeetCode-100/tree/master/0088-merge-sorted-array) |
