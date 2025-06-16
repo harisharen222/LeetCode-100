@@ -16,6 +16,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 | [0075-sort-colors](https://github.com/harisharen222/LeetCode-100/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/harisharen222/LeetCode-100/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harisharen222/LeetCode-100/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0135-candy](https://github.com/harisharen222/LeetCode-100/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/harisharen222/LeetCode-100/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/harisharen222/LeetCode-100/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0164-maximum-gap](https://github.com/harisharen222/LeetCode-100/tree/master/0164-maximum-gap) |
@@ -119,6 +120,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/harisharen222/LeetCode-100/tree/master/0135-candy) |
 | [0410-split-array-largest-sum](https://github.com/harisharen222/LeetCode-100/tree/master/0410-split-array-largest-sum) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/harisharen222/LeetCode-100/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/harisharen222/LeetCode-100/tree/master/1683-maximum-number-of-coins-you-can-get) |
