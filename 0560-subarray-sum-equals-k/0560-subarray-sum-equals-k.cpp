@@ -18,9 +18,7 @@ public:
                 count += m[val];
             }
 
-            if(m.find(prefix[j]) == m.end() ){
-                m[prefix[j]] = 0;
-            }
+            
             m[prefix[j]]++;
         }
         return count;
