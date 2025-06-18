@@ -42,6 +42,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 | [2102-find-the-middle-index-in-array](https://github.com/harisharen222/LeetCode-100/tree/master/2102-find-the-middle-index-in-array) |
 | [2117-find-original-array-from-doubled-array](https://github.com/harisharen222/LeetCode-100/tree/master/2117-find-original-array-from-doubled-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/harisharen222/LeetCode-100/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/harisharen222/LeetCode-100/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Hash Table
 |  |
 | ------- |
@@ -67,6 +68,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 | [0987-reveal-cards-in-increasing-order](https://github.com/harisharen222/LeetCode-100/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/harisharen222/LeetCode-100/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [2117-find-original-array-from-doubled-array](https://github.com/harisharen222/LeetCode-100/tree/master/2117-find-original-array-from-doubled-array) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/harisharen222/LeetCode-100/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -135,6 +137,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/harisharen222/LeetCode-100/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/harisharen222/LeetCode-100/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [2117-find-original-array-from-doubled-array](https://github.com/harisharen222/LeetCode-100/tree/master/2117-find-original-array-from-doubled-array) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/harisharen222/LeetCode-100/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
