@@ -1,5 +1,13 @@
 class Solution {
 public:
+    bool isFreqSame(vector<int>& freq1,vector<int>& freq2){
+        for(int i=0 ; i<26 ; i++){
+            if(freq1[i] != freq2[i]){
+                return false;
+            }
+        }
+        return true;
+    }
     bool checkInclusion(string s1, string s2) {
         vector<int>freq1(26,0);
         
@@ -15,7 +23,7 @@ public:
                 freq2[s2[idx] - 'a']++;
                 idx++;window_idx++;
             }
-            if(freq1 == freq2)  return true;
+            if(isFreqSame(freq1,freq2))  return true;
         }
         return false;
     }
