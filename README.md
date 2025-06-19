@@ -7,6 +7,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/harisharen222/LeetCode-100/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/harisharen222/LeetCode-100/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/harisharen222/LeetCode-100/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/harisharen222/LeetCode-100/tree/master/0033-search-in-rotated-sorted-array) |
@@ -104,6 +105,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/harisharen222/LeetCode-100/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/harisharen222/LeetCode-100/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/harisharen222/LeetCode-100/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/harisharen222/LeetCode-100/tree/master/0075-sort-colors) |
@@ -136,6 +138,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/harisharen222/LeetCode-100/tree/master/0011-container-with-most-water) |
 | [0135-candy](https://github.com/harisharen222/LeetCode-100/tree/master/0135-candy) |
 | [0410-split-array-largest-sum](https://github.com/harisharen222/LeetCode-100/tree/master/0410-split-array-largest-sum) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/harisharen222/LeetCode-100/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
