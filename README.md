@@ -54,6 +54,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 | [0349-intersection-of-two-arrays](https://github.com/harisharen222/LeetCode-100/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/harisharen222/LeetCode-100/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/harisharen222/LeetCode-100/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/harisharen222/LeetCode-100/tree/master/0567-permutation-in-string) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/harisharen222/LeetCode-100/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1319-unique-number-of-occurrences](https://github.com/harisharen222/LeetCode-100/tree/master/1319-unique-number-of-occurrences) |
 | [2117-find-original-array-from-doubled-array](https://github.com/harisharen222/LeetCode-100/tree/master/2117-find-original-array-from-doubled-array) |
@@ -104,6 +105,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 | [0058-length-of-last-word](https://github.com/harisharen222/LeetCode-100/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/harisharen222/LeetCode-100/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/harisharen222/LeetCode-100/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/harisharen222/LeetCode-100/tree/master/0567-permutation-in-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/harisharen222/LeetCode-100/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Two Pointers
 |  |
@@ -118,6 +120,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 | [0283-move-zeroes](https://github.com/harisharen222/LeetCode-100/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/harisharen222/LeetCode-100/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/harisharen222/LeetCode-100/tree/master/0349-intersection-of-two-arrays) |
+| [0567-permutation-in-string](https://github.com/harisharen222/LeetCode-100/tree/master/0567-permutation-in-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -184,6 +187,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/harisharen222/LeetCode-100/tree/master/0209-minimum-size-subarray-sum) |
+| [0567-permutation-in-string](https://github.com/harisharen222/LeetCode-100/tree/master/0567-permutation-in-string) |
 ## Counting
 |  |
 | ------- |
