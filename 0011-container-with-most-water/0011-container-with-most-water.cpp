@@ -15,8 +15,7 @@ public:
             int height_of_container = min(height[i],height[j]);
             area = areaofcontainer(height_of_container,width);
             ans = max(ans,area);
-            if(height[j] > height[i])  i++;
-            else    j--;
+            height[j] > height[i] ? i++ : j--;
         }
         return ans;
     }
