@@ -7,13 +7,12 @@ public:
         int end = 0;
         int count = 0;
         while( end < n ){
-            if(nums[end]-nums[st] > k){
-                st = end;
-                count++;
-                continue;
+            while(end<n && (nums[end]-nums[st] <= k)){
+                end++;
             }
-            end++;
+            st = end;
+            count++;
         }
-        return count+1;
+        return count;
     }
 };
