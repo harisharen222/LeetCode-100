@@ -109,6 +109,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 | [0557-reverse-words-in-a-string-iii](https://github.com/harisharen222/LeetCode-100/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/harisharen222/LeetCode-100/tree/master/0567-permutation-in-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/harisharen222/LeetCode-100/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2886-faulty-keyboard](https://github.com/harisharen222/LeetCode-100/tree/master/2886-faulty-keyboard) |
 ## Two Pointers
 |  |
 | ------- |
@@ -187,6 +188,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 | ------- |
 | [0987-reveal-cards-in-increasing-order](https://github.com/harisharen222/LeetCode-100/tree/master/0987-reveal-cards-in-increasing-order) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/harisharen222/LeetCode-100/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2886-faulty-keyboard](https://github.com/harisharen222/LeetCode-100/tree/master/2886-faulty-keyboard) |
 ## Sliding Window
 |  |
 | ------- |
