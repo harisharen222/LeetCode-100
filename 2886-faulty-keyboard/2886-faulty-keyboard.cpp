@@ -8,7 +8,7 @@ public:
             if(s[end] == 'i'){
                 reverse(result.begin(),result.end());
             }
-            else    result.push_back(s[end]);
+            else    result += s[end];
             end++;
 
         }
