@@ -10,7 +10,7 @@ public:
                 st = end+1;
             }
         }
-        reverse(s.begin()+st,s.begin()+end);
+        reverse(s.begin()+st,s.end());
         return s;
     }
 };
