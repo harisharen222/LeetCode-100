@@ -2,7 +2,7 @@ class Solution {
 public:
     string reverseWords(string s) {
         int st = 0;
-        deque<string> dq;
+        
         int end =0;
         for(end=0 ; end<s.length() ; end++){
             if(s[end] == ' '){
