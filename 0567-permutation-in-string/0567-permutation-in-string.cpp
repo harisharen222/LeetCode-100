@@ -1,32 +1,22 @@
 class Solution {
 public:
-    bool isfreqSame(vector<int>& freq1 , vector<int>& freq2){
-        for(int i=0 ; i<26 ; i++){
-            if(freq1[i] != freq2[i]){
-                return false;
-            }
-        }
-        return true;
-    }
+    
     bool checkInclusion(string s1, string s2) {
+        if (s1.length() > s2.length()) return false;
         vector<int> freq(26,0);
+        vector<int> freq2(26,0);
         for(int i=0 ; i<s1.length() ; i++){
             freq[s1[i]-'a']++;
+            freq2[s2[i]-'a']++;
         }
         int window_size = s1.length();
 
-        for(int i=0 ; i<s2.length() ; i++){
-            vector<int> freq2(26,0);
-            int window_idx = 0, idx = i;
-            while(window_idx < window_size && idx < s2.length()){
-                freq2[s2[idx]-'a']++;
-                window_idx++;
-                idx++;
-            }
-            if(isfreqSame(freq,freq2)){
-                return true;
-            }
+        for(int i=s1.length() ; i<s2.length() ; i++){
+            if(freq == freq2)   return true;
+            freq2[s2[i]-'a']++;
+            freq2[s2[i-s1.length()]-'a']--;
+            
         }
-        return false;
+        return freq == freq2;
     }
 };
