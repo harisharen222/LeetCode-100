@@ -6,12 +6,13 @@ public:
         string result = "";
         while(end < s.length()){
             if(s[end] == 'i'){
-                reverse(s.begin()+st,s.begin()+end);
-                s.erase(s.begin()+end);
+                reverse(result.begin(),result.end());
             }
-            else    end++;
+            else    result.push_back(s[end]);
+            end++;
+
         }
 
-        return s;
+        return result;
     }
 };
