@@ -108,6 +108,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 | [0344-reverse-string](https://github.com/harisharen222/LeetCode-100/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/harisharen222/LeetCode-100/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/harisharen222/LeetCode-100/tree/master/0567-permutation-in-string) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/harisharen222/LeetCode-100/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/harisharen222/LeetCode-100/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2886-faulty-keyboard](https://github.com/harisharen222/LeetCode-100/tree/master/2886-faulty-keyboard) |
 ## Two Pointers
@@ -201,5 +202,6 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 ## Stack
 |  |
 | ------- |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/harisharen222/LeetCode-100/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/harisharen222/LeetCode-100/tree/master/2021-remove-all-occurrences-of-a-substring) |
 <!---LeetCode Topics End-->
