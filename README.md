@@ -13,6 +13,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 | [0033-search-in-rotated-sorted-array](https://github.com/harisharen222/LeetCode-100/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/harisharen222/LeetCode-100/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/harisharen222/LeetCode-100/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/harisharen222/LeetCode-100/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/harisharen222/LeetCode-100/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/harisharen222/LeetCode-100/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/harisharen222/LeetCode-100/tree/master/0075-sort-colors) |
@@ -138,6 +139,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/harisharen222/LeetCode-100/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/harisharen222/LeetCode-100/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/harisharen222/LeetCode-100/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/harisharen222/LeetCode-100/tree/master/0268-missing-number) |
@@ -211,5 +213,6 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/harisharen222/LeetCode-100/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/harisharen222/LeetCode-100/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
