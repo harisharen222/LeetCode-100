@@ -14,6 +14,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/harisharen222/LeetCode-100/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/harisharen222/LeetCode-100/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/harisharen222/LeetCode-100/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/harisharen222/LeetCode-100/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/harisharen222/LeetCode-100/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/harisharen222/LeetCode-100/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harisharen222/LeetCode-100/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -189,6 +190,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/harisharen222/LeetCode-100/tree/master/0054-spiral-matrix) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/harisharen222/LeetCode-100/tree/master/0987-reveal-cards-in-increasing-order) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/harisharen222/LeetCode-100/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2886-faulty-keyboard](https://github.com/harisharen222/LeetCode-100/tree/master/2886-faulty-keyboard) |
@@ -206,4 +208,8 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 | ------- |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/harisharen222/LeetCode-100/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/harisharen222/LeetCode-100/tree/master/2021-remove-all-occurrences-of-a-substring) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/harisharen222/LeetCode-100/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
