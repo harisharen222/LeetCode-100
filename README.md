@@ -25,6 +25,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/harisharen222/LeetCode-100/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0164-maximum-gap](https://github.com/harisharen222/LeetCode-100/tree/master/0164-maximum-gap) |
 | [0189-rotate-array](https://github.com/harisharen222/LeetCode-100/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/harisharen222/LeetCode-100/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/harisharen222/LeetCode-100/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/harisharen222/LeetCode-100/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/harisharen222/LeetCode-100/tree/master/0217-contains-duplicate) |
@@ -148,6 +149,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 | [0048-rotate-image](https://github.com/harisharen222/LeetCode-100/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/harisharen222/LeetCode-100/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/harisharen222/LeetCode-100/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/harisharen222/LeetCode-100/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/harisharen222/LeetCode-100/tree/master/0268-missing-number) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/harisharen222/LeetCode-100/tree/master/1683-maximum-number-of-coins-you-can-get) |
 ## Prefix Sum
@@ -224,4 +226,12 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 | [0054-spiral-matrix](https://github.com/harisharen222/LeetCode-100/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/harisharen222/LeetCode-100/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/harisharen222/LeetCode-100/tree/master/0240-search-a-2d-matrix-ii) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/harisharen222/LeetCode-100/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/harisharen222/LeetCode-100/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
