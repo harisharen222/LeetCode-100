@@ -34,6 +34,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 | [0268-missing-number](https://github.com/harisharen222/LeetCode-100/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/harisharen222/LeetCode-100/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/harisharen222/LeetCode-100/tree/master/0349-intersection-of-two-arrays) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/harisharen222/LeetCode-100/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/harisharen222/LeetCode-100/tree/master/0410-split-array-largest-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/harisharen222/LeetCode-100/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/harisharen222/LeetCode-100/tree/master/0560-subarray-sum-equals-k) |
@@ -76,6 +77,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 | [0217-contains-duplicate](https://github.com/harisharen222/LeetCode-100/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/harisharen222/LeetCode-100/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/harisharen222/LeetCode-100/tree/master/0349-intersection-of-two-arrays) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/harisharen222/LeetCode-100/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/harisharen222/LeetCode-100/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/harisharen222/LeetCode-100/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [2117-find-original-array-from-doubled-array](https://github.com/harisharen222/LeetCode-100/tree/master/2117-find-original-array-from-doubled-array) |
@@ -106,6 +108,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 | [0240-search-a-2d-matrix-ii](https://github.com/harisharen222/LeetCode-100/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/harisharen222/LeetCode-100/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/harisharen222/LeetCode-100/tree/master/0349-intersection-of-two-arrays) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/harisharen222/LeetCode-100/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/harisharen222/LeetCode-100/tree/master/0410-split-array-largest-sum) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/harisharen222/LeetCode-100/tree/master/0882-peak-index-in-a-mountain-array) |
 ## String
@@ -179,6 +182,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/harisharen222/LeetCode-100/tree/master/0215-kth-largest-element-in-an-array) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/harisharen222/LeetCode-100/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Quickselect
 |  |
 | ------- |
@@ -228,6 +232,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 | [0054-spiral-matrix](https://github.com/harisharen222/LeetCode-100/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/harisharen222/LeetCode-100/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/harisharen222/LeetCode-100/tree/master/0240-search-a-2d-matrix-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/harisharen222/LeetCode-100/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Enumeration
 |  |
 | ------- |
