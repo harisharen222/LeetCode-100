@@ -46,6 +46,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 | [1319-unique-number-of-occurrences](https://github.com/harisharen222/LeetCode-100/tree/master/1319-unique-number-of-occurrences) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/harisharen222/LeetCode-100/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/harisharen222/LeetCode-100/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2058-concatenation-of-array](https://github.com/harisharen222/LeetCode-100/tree/master/2058-concatenation-of-array) |
 | [2102-find-the-middle-index-in-array](https://github.com/harisharen222/LeetCode-100/tree/master/2102-find-the-middle-index-in-array) |
 | [2117-find-original-array-from-doubled-array](https://github.com/harisharen222/LeetCode-100/tree/master/2117-find-original-array-from-doubled-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/harisharen222/LeetCode-100/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -209,6 +210,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 | [0054-spiral-matrix](https://github.com/harisharen222/LeetCode-100/tree/master/0054-spiral-matrix) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/harisharen222/LeetCode-100/tree/master/0987-reveal-cards-in-increasing-order) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/harisharen222/LeetCode-100/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2058-concatenation-of-array](https://github.com/harisharen222/LeetCode-100/tree/master/2058-concatenation-of-array) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/harisharen222/LeetCode-100/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2886-faulty-keyboard](https://github.com/harisharen222/LeetCode-100/tree/master/2886-faulty-keyboard) |
 ## Sliding Window
