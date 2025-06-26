@@ -1,42 +1,36 @@
 class Solution {
 public:
-    vector<int> mergearrays(vector<int>& nums1, vector<int>& nums2){
-        vector<int>nums3;
-        int i=0;
-        int j=0;
-        while(i<nums1.size() && j<nums2.size()){
-            if( nums1[i] <= nums2[j] ){
-                nums3.push_back(nums1[i]);
-                i++;
-            }
-            else{
-                nums3.push_back(nums2[j]);
-                j++;
-            }
-        }
-        while(i < nums1.size()){
-            nums3.push_back(nums1[i]);
-            i++;
-        }
-        while(j < nums2.size()){
-            nums3.push_back(nums2[j]);
-            j++;
-        }
-        return nums3;
-    }
     double findMedianSortedArrays(vector<int>& nums1, vector<int>& nums2) {
-        
-        vector<int>final = mergearrays(nums1,nums2);
-        int m = final.size();
-        if(m % 2 != 0){
-            double ans = (m-1)/2;
-            return final[ans];
+        int n1 = nums1.size();
+        int n2 = nums2.size();
+        if(n2 < n1) return findMedianSortedArrays(nums2,nums1);
+        int n = n1 + n2;
+        int low = 0, high = n1;
+        int mid1 = (low+high)/2;
+        int left = (n+1)/2;
+        int mid2 = left - mid1;
+        while(low <= high){
+            mid1 = (low+high)/2;
+            mid2 = left - mid1;
+            int l1 = INT_MIN , l2 = INT_MIN;
+            int r1 = INT_MAX , r2 = INT_MAX;
+            if(mid1 < n1)   r1 = nums1[mid1];
+            if(mid2 < n2)   r2 = nums2[mid2];
+            if(mid1-1 >= 0) l1 = nums1[mid1-1];
+            if(mid2-1 >= 0) l2 = nums2[mid2-1];
+            if(l1 <= r2 && l2 <= r1){
+                if(n % 2 == 1){
+                    return max(l1,l2);
+                }
+                else{
+                    return (double)((max(l1,l2)+min(r1,r2))/2.0);
+                }
+            }
+            else if(l1 > r2)    high = mid1-1;
+            else{
+                low = mid1+1;
+            }
         }
-        else{
-            int ans1 = final[(m-1)/2];
-            int ans2 = final[((m-1)/2)+1];
-            double result = (ans1+ans2)/2.0;
-            return result;
-        }
+        return 0;
     }
 };
