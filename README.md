@@ -40,6 +40,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 | [0442-find-all-duplicates-in-an-array](https://github.com/harisharen222/LeetCode-100/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/harisharen222/LeetCode-100/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/harisharen222/LeetCode-100/tree/master/0724-find-pivot-index) |
+| [0792-binary-search](https://github.com/harisharen222/LeetCode-100/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/harisharen222/LeetCode-100/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/harisharen222/LeetCode-100/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/harisharen222/LeetCode-100/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -114,6 +115,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 | [0349-intersection-of-two-arrays](https://github.com/harisharen222/LeetCode-100/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/harisharen222/LeetCode-100/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/harisharen222/LeetCode-100/tree/master/0410-split-array-largest-sum) |
+| [0792-binary-search](https://github.com/harisharen222/LeetCode-100/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/harisharen222/LeetCode-100/tree/master/0882-peak-index-in-a-mountain-array) |
 ## String
 |  |
