@@ -46,6 +46,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 | [0410-split-array-largest-sum](https://github.com/harisharen222/LeetCode-100/tree/master/0410-split-array-largest-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/harisharen222/LeetCode-100/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/harisharen222/LeetCode-100/tree/master/0560-subarray-sum-equals-k) |
+| [0594-longest-harmonious-subsequence](https://github.com/harisharen222/LeetCode-100/tree/master/0594-longest-harmonious-subsequence) |
 | [0724-find-pivot-index](https://github.com/harisharen222/LeetCode-100/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/harisharen222/LeetCode-100/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/harisharen222/LeetCode-100/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -74,6 +75,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 | [0442-find-all-duplicates-in-an-array](https://github.com/harisharen222/LeetCode-100/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/harisharen222/LeetCode-100/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/harisharen222/LeetCode-100/tree/master/0567-permutation-in-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/harisharen222/LeetCode-100/tree/master/0594-longest-harmonious-subsequence) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/harisharen222/LeetCode-100/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1319-unique-number-of-occurrences](https://github.com/harisharen222/LeetCode-100/tree/master/1319-unique-number-of-occurrences) |
 | [2117-find-original-array-from-doubled-array](https://github.com/harisharen222/LeetCode-100/tree/master/2117-find-original-array-from-doubled-array) |
@@ -92,6 +94,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 | [0274-h-index](https://github.com/harisharen222/LeetCode-100/tree/master/0274-h-index) |
 | [0349-intersection-of-two-arrays](https://github.com/harisharen222/LeetCode-100/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/harisharen222/LeetCode-100/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0594-longest-harmonious-subsequence](https://github.com/harisharen222/LeetCode-100/tree/master/0594-longest-harmonious-subsequence) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/harisharen222/LeetCode-100/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/harisharen222/LeetCode-100/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [2117-find-original-array-from-doubled-array](https://github.com/harisharen222/LeetCode-100/tree/master/2117-find-original-array-from-doubled-array) |
@@ -246,10 +249,12 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/harisharen222/LeetCode-100/tree/master/0209-minimum-size-subarray-sum) |
 | [0567-permutation-in-string](https://github.com/harisharen222/LeetCode-100/tree/master/0567-permutation-in-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/harisharen222/LeetCode-100/tree/master/0594-longest-harmonious-subsequence) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/harisharen222/LeetCode-100/tree/master/0169-majority-element) |
+| [0594-longest-harmonious-subsequence](https://github.com/harisharen222/LeetCode-100/tree/master/0594-longest-harmonious-subsequence) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/harisharen222/LeetCode-100/tree/master/2421-maximum-number-of-pairs-in-array) |
 ## Stack
 |  |
