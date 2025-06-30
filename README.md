@@ -19,6 +19,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 | [0048-rotate-image](https://github.com/harisharen222/LeetCode-100/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/harisharen222/LeetCode-100/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/harisharen222/LeetCode-100/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/harisharen222/LeetCode-100/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/harisharen222/LeetCode-100/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/harisharen222/LeetCode-100/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/harisharen222/LeetCode-100/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -97,6 +98,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/harisharen222/LeetCode-100/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/harisharen222/LeetCode-100/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harisharen222/LeetCode-100/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0410-split-array-largest-sum](https://github.com/harisharen222/LeetCode-100/tree/master/0410-split-array-largest-sum) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/harisharen222/LeetCode-100/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
@@ -191,6 +193,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/harisharen222/LeetCode-100/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/harisharen222/LeetCode-100/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/harisharen222/LeetCode-100/tree/master/0135-candy) |
 | [0410-split-array-largest-sum](https://github.com/harisharen222/LeetCode-100/tree/master/0410-split-array-largest-sum) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/harisharen222/LeetCode-100/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
