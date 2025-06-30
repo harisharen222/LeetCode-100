@@ -39,6 +39,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 | [0238-product-of-array-except-self](https://github.com/harisharen222/LeetCode-100/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/harisharen222/LeetCode-100/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/harisharen222/LeetCode-100/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/harisharen222/LeetCode-100/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/harisharen222/LeetCode-100/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/harisharen222/LeetCode-100/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/harisharen222/LeetCode-100/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -88,6 +89,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 | [0215-kth-largest-element-in-an-array](https://github.com/harisharen222/LeetCode-100/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/harisharen222/LeetCode-100/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/harisharen222/LeetCode-100/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/harisharen222/LeetCode-100/tree/master/0274-h-index) |
 | [0349-intersection-of-two-arrays](https://github.com/harisharen222/LeetCode-100/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/harisharen222/LeetCode-100/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/harisharen222/LeetCode-100/tree/master/0987-reveal-cards-in-increasing-order) |
@@ -274,4 +276,8 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 |  |
 | ------- |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/harisharen222/LeetCode-100/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/harisharen222/LeetCode-100/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
