@@ -11,8 +11,8 @@ public:
             if(currEnd == i){
                 jump++;
                 currEnd = farthest;
+                if(currEnd == n-1)  return jump;
             }
-            if(currEnd == n-1)  return jump;
             i++;
         }
         return jump;
