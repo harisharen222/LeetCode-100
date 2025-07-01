@@ -144,6 +144,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/harisharen222/LeetCode-100/tree/master/0006-zigzag-conversion) |
 | [0013-roman-to-integer](https://github.com/harisharen222/LeetCode-100/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/harisharen222/LeetCode-100/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/harisharen222/LeetCode-100/tree/master/0058-length-of-last-word) |
