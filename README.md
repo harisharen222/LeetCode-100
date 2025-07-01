@@ -151,6 +151,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/harisharen222/LeetCode-100/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/harisharen222/LeetCode-100/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2886-faulty-keyboard](https://github.com/harisharen222/LeetCode-100/tree/master/2886-faulty-keyboard) |
+| [3617-find-the-original-typed-string-i](https://github.com/harisharen222/LeetCode-100/tree/master/3617-find-the-original-typed-string-i) |
 ## Two Pointers
 |  |
 | ------- |
