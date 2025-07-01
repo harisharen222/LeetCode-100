@@ -16,6 +16,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 | [0033-search-in-rotated-sorted-array](https://github.com/harisharen222/LeetCode-100/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/harisharen222/LeetCode-100/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/harisharen222/LeetCode-100/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/harisharen222/LeetCode-100/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/harisharen222/LeetCode-100/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/harisharen222/LeetCode-100/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/harisharen222/LeetCode-100/tree/master/0053-maximum-subarray) |
@@ -104,6 +105,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/harisharen222/LeetCode-100/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/harisharen222/LeetCode-100/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/harisharen222/LeetCode-100/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/harisharen222/LeetCode-100/tree/master/0055-jump-game) |
@@ -161,6 +163,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 | [0026-remove-duplicates-from-sorted-array](https://github.com/harisharen222/LeetCode-100/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/harisharen222/LeetCode-100/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/harisharen222/LeetCode-100/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/harisharen222/LeetCode-100/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/harisharen222/LeetCode-100/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/harisharen222/LeetCode-100/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/harisharen222/LeetCode-100/tree/master/0088-merge-sorted-array) |
@@ -262,6 +265,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/harisharen222/LeetCode-100/tree/master/0042-trapping-rain-water) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/harisharen222/LeetCode-100/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/harisharen222/LeetCode-100/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Matrix
@@ -288,4 +292,8 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 |  |
 | ------- |
 | [0274-h-index](https://github.com/harisharen222/LeetCode-100/tree/master/0274-h-index) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/harisharen222/LeetCode-100/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
