@@ -70,6 +70,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/harisharen222/LeetCode-100/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/harisharen222/LeetCode-100/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/harisharen222/LeetCode-100/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/harisharen222/LeetCode-100/tree/master/0268-missing-number) |
@@ -142,6 +143,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/harisharen222/LeetCode-100/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/harisharen222/LeetCode-100/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/harisharen222/LeetCode-100/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/harisharen222/LeetCode-100/tree/master/0151-reverse-words-in-a-string) |
@@ -185,6 +187,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/harisharen222/LeetCode-100/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/harisharen222/LeetCode-100/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/harisharen222/LeetCode-100/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/harisharen222/LeetCode-100/tree/master/0189-rotate-array) |
