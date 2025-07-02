@@ -4,7 +4,7 @@ public:
         int n = height.size();
         int i = 0;
         int j = n-1;
-        int area = INT_MIN;
+        int area = 0;
         while(i<j){
             int len = min(height[i],height[j]);
             int hei = abs(j-i);
