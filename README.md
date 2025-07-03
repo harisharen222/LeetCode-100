@@ -197,6 +197,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 | ------- |
 | [0136-single-number](https://github.com/harisharen222/LeetCode-100/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/harisharen222/LeetCode-100/tree/master/0268-missing-number) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/harisharen222/LeetCode-100/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Math
 |  |
 | ------- |
@@ -207,6 +208,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 | [0204-count-primes](https://github.com/harisharen222/LeetCode-100/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/harisharen222/LeetCode-100/tree/master/0268-missing-number) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/harisharen222/LeetCode-100/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/harisharen222/LeetCode-100/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -267,6 +269,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 | [2058-concatenation-of-array](https://github.com/harisharen222/LeetCode-100/tree/master/2058-concatenation-of-array) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/harisharen222/LeetCode-100/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2886-faulty-keyboard](https://github.com/harisharen222/LeetCode-100/tree/master/2886-faulty-keyboard) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/harisharen222/LeetCode-100/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -321,4 +324,8 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/harisharen222/LeetCode-100/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Recursion
+|  |
+| ------- |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/harisharen222/LeetCode-100/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 <!---LeetCode Topics End-->
