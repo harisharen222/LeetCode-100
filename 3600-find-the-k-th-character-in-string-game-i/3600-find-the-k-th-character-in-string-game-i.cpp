@@ -1,19 +1,28 @@
 class Solution {
+private:
+    char getchar(int k){
+        int step = 0;
+        int length = 1;
+        while(length < k){
+            step++;
+            length *= 2;
+        }
+        return helper(step,k-1);
+    }
+
+    char helper(int step, int idx){
+        if(step == 0)   return 'a';
+        int mid = 1 << (step-1);
+        if(idx < mid){
+            return helper(step-1,idx);
+        }
+        else{
+            char c = helper(step-1,idx-mid);
+            return (c == 'z') ? 'a' : c+1;
+        }
+    }
 public:
     char kthCharacter(int k) {
-        vector<char>chars;
-        chars.push_back('a');
-        while(chars.size() < k){
-            int n = chars.size();
-            for(int i=0 ; i<n ; i++){
-                if(chars[i] == 'z'){
-                    chars.push_back('a');
-                }
-                else{
-                    chars.push_back(chars[i]+1);
-                }
-            }
-        }
-        return chars[k-1];
+        return getchar(k);
     }
 };
