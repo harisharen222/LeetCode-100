@@ -1,18 +1,19 @@
 class Solution {
 public:
     char kthCharacter(int k) {
-        vector<char> chars;
-        int i = 0;
+        vector<char>chars;
         chars.push_back('a');
-        while (chars.size() < k) {
+        while(chars.size() < k){
             int n = chars.size();
-            for (int j = 0; j < n; j++) {
-                if (chars[j] == 'z')
+            for(int i=0 ; i<n ; i++){
+                if(chars[i] == 'z'){
                     chars.push_back('a');
-                else
-                    chars.push_back(chars[j] + 1);
+                }
+                else{
+                    chars.push_back(chars[i]+1);
+                }
             }
         }
-        return chars[k - 1];
+        return chars[k-1];
     }
 };
