@@ -74,6 +74,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/harisharen222/LeetCode-100/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/harisharen222/LeetCode-100/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/harisharen222/LeetCode-100/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/harisharen222/LeetCode-100/tree/master/0217-contains-duplicate) |
@@ -150,6 +151,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/harisharen222/LeetCode-100/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/harisharen222/LeetCode-100/tree/master/0006-zigzag-conversion) |
 | [0013-roman-to-integer](https://github.com/harisharen222/LeetCode-100/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/harisharen222/LeetCode-100/tree/master/0014-longest-common-prefix) |
@@ -276,6 +278,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/harisharen222/LeetCode-100/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/harisharen222/LeetCode-100/tree/master/0209-minimum-size-subarray-sum) |
 | [0567-permutation-in-string](https://github.com/harisharen222/LeetCode-100/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/harisharen222/LeetCode-100/tree/master/0594-longest-harmonious-subsequence) |
