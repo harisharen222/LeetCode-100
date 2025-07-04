@@ -81,6 +81,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 | [0217-contains-duplicate](https://github.com/harisharen222/LeetCode-100/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/harisharen222/LeetCode-100/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/harisharen222/LeetCode-100/tree/master/0349-intersection-of-two-arrays) |
+| [0383-ransom-note](https://github.com/harisharen222/LeetCode-100/tree/master/0383-ransom-note) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/harisharen222/LeetCode-100/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/harisharen222/LeetCode-100/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/harisharen222/LeetCode-100/tree/master/0567-permutation-in-string) |
@@ -163,6 +164,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 | [0125-valid-palindrome](https://github.com/harisharen222/LeetCode-100/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/harisharen222/LeetCode-100/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/harisharen222/LeetCode-100/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/harisharen222/LeetCode-100/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/harisharen222/LeetCode-100/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/harisharen222/LeetCode-100/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/harisharen222/LeetCode-100/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -289,6 +291,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/harisharen222/LeetCode-100/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/harisharen222/LeetCode-100/tree/master/0383-ransom-note) |
 | [0594-longest-harmonious-subsequence](https://github.com/harisharen222/LeetCode-100/tree/master/0594-longest-harmonious-subsequence) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/harisharen222/LeetCode-100/tree/master/2421-maximum-number-of-pairs-in-array) |
 ## Stack
