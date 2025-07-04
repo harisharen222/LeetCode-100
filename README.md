@@ -78,6 +78,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 | [0013-roman-to-integer](https://github.com/harisharen222/LeetCode-100/tree/master/0013-roman-to-integer) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/harisharen222/LeetCode-100/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0169-majority-element](https://github.com/harisharen222/LeetCode-100/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/harisharen222/LeetCode-100/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/harisharen222/LeetCode-100/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/harisharen222/LeetCode-100/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/harisharen222/LeetCode-100/tree/master/0349-intersection-of-two-arrays) |
@@ -163,6 +164,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 | [0068-text-justification](https://github.com/harisharen222/LeetCode-100/tree/master/0068-text-justification) |
 | [0125-valid-palindrome](https://github.com/harisharen222/LeetCode-100/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/harisharen222/LeetCode-100/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/harisharen222/LeetCode-100/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/harisharen222/LeetCode-100/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/harisharen222/LeetCode-100/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/harisharen222/LeetCode-100/tree/master/0392-is-subsequence) |
