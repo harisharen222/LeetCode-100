@@ -82,6 +82,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 | [0169-majority-element](https://github.com/harisharen222/LeetCode-100/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/harisharen222/LeetCode-100/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/harisharen222/LeetCode-100/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/harisharen222/LeetCode-100/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/harisharen222/LeetCode-100/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/harisharen222/LeetCode-100/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/harisharen222/LeetCode-100/tree/master/0349-intersection-of-two-arrays) |
@@ -106,6 +107,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 | [0169-majority-element](https://github.com/harisharen222/LeetCode-100/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/harisharen222/LeetCode-100/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/harisharen222/LeetCode-100/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/harisharen222/LeetCode-100/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/harisharen222/LeetCode-100/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/harisharen222/LeetCode-100/tree/master/0274-h-index) |
 | [0349-intersection-of-two-arrays](https://github.com/harisharen222/LeetCode-100/tree/master/0349-intersection-of-two-arrays) |
@@ -170,6 +172,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 | [0125-valid-palindrome](https://github.com/harisharen222/LeetCode-100/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/harisharen222/LeetCode-100/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/harisharen222/LeetCode-100/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/harisharen222/LeetCode-100/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/harisharen222/LeetCode-100/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/harisharen222/LeetCode-100/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/harisharen222/LeetCode-100/tree/master/0383-ransom-note) |
