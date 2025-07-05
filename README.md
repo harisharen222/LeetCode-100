@@ -7,6 +7,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/harisharen222/LeetCode-100/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/harisharen222/LeetCode-100/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/harisharen222/LeetCode-100/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/harisharen222/LeetCode-100/tree/master/0014-longest-common-prefix) |
@@ -75,6 +76,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/harisharen222/LeetCode-100/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/harisharen222/LeetCode-100/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/harisharen222/LeetCode-100/tree/master/0013-roman-to-integer) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/harisharen222/LeetCode-100/tree/master/0030-substring-with-concatenation-of-all-words) |
