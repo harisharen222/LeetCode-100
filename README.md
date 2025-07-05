@@ -22,6 +22,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 | [0042-trapping-rain-water](https://github.com/harisharen222/LeetCode-100/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/harisharen222/LeetCode-100/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/harisharen222/LeetCode-100/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/harisharen222/LeetCode-100/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/harisharen222/LeetCode-100/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/harisharen222/LeetCode-100/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/harisharen222/LeetCode-100/tree/master/0055-jump-game) |
@@ -80,6 +81,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 | [0003-longest-substring-without-repeating-characters](https://github.com/harisharen222/LeetCode-100/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/harisharen222/LeetCode-100/tree/master/0013-roman-to-integer) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/harisharen222/LeetCode-100/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0049-group-anagrams](https://github.com/harisharen222/LeetCode-100/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/harisharen222/LeetCode-100/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/harisharen222/LeetCode-100/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/harisharen222/LeetCode-100/tree/master/0205-isomorphic-strings) |
@@ -103,6 +105,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 | ------- |
 | [0015-3sum](https://github.com/harisharen222/LeetCode-100/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/harisharen222/LeetCode-100/tree/master/0016-3sum-closest) |
+| [0049-group-anagrams](https://github.com/harisharen222/LeetCode-100/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/harisharen222/LeetCode-100/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/harisharen222/LeetCode-100/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/harisharen222/LeetCode-100/tree/master/0164-maximum-gap) |
@@ -168,6 +171,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 | [0014-longest-common-prefix](https://github.com/harisharen222/LeetCode-100/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/harisharen222/LeetCode-100/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/harisharen222/LeetCode-100/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0049-group-anagrams](https://github.com/harisharen222/LeetCode-100/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/harisharen222/LeetCode-100/tree/master/0058-length-of-last-word) |
 | [0068-text-justification](https://github.com/harisharen222/LeetCode-100/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/harisharen222/LeetCode-100/tree/master/0076-minimum-window-substring) |
