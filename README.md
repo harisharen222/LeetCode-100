@@ -78,6 +78,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 | [0003-longest-substring-without-repeating-characters](https://github.com/harisharen222/LeetCode-100/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/harisharen222/LeetCode-100/tree/master/0013-roman-to-integer) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/harisharen222/LeetCode-100/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0076-minimum-window-substring](https://github.com/harisharen222/LeetCode-100/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/harisharen222/LeetCode-100/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/harisharen222/LeetCode-100/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/harisharen222/LeetCode-100/tree/master/0217-contains-duplicate) |
@@ -165,6 +166,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 | [0030-substring-with-concatenation-of-all-words](https://github.com/harisharen222/LeetCode-100/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0058-length-of-last-word](https://github.com/harisharen222/LeetCode-100/tree/master/0058-length-of-last-word) |
 | [0068-text-justification](https://github.com/harisharen222/LeetCode-100/tree/master/0068-text-justification) |
+| [0076-minimum-window-substring](https://github.com/harisharen222/LeetCode-100/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/harisharen222/LeetCode-100/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/harisharen222/LeetCode-100/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/harisharen222/LeetCode-100/tree/master/0205-isomorphic-strings) |
@@ -290,6 +292,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/harisharen222/LeetCode-100/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/harisharen222/LeetCode-100/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0076-minimum-window-substring](https://github.com/harisharen222/LeetCode-100/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/harisharen222/LeetCode-100/tree/master/0209-minimum-size-subarray-sum) |
 | [0567-permutation-in-string](https://github.com/harisharen222/LeetCode-100/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/harisharen222/LeetCode-100/tree/master/0594-longest-harmonious-subsequence) |
