@@ -19,6 +19,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 | [0033-search-in-rotated-sorted-array](https://github.com/harisharen222/LeetCode-100/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/harisharen222/LeetCode-100/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/harisharen222/LeetCode-100/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/harisharen222/LeetCode-100/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/harisharen222/LeetCode-100/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/harisharen222/LeetCode-100/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/harisharen222/LeetCode-100/tree/master/0048-rotate-image) |
@@ -83,6 +84,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 | [0003-longest-substring-without-repeating-characters](https://github.com/harisharen222/LeetCode-100/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/harisharen222/LeetCode-100/tree/master/0013-roman-to-integer) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/harisharen222/LeetCode-100/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0036-valid-sudoku](https://github.com/harisharen222/LeetCode-100/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/harisharen222/LeetCode-100/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/harisharen222/LeetCode-100/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/harisharen222/LeetCode-100/tree/master/0128-longest-consecutive-sequence) |
@@ -330,6 +332,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/harisharen222/LeetCode-100/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/harisharen222/LeetCode-100/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/harisharen222/LeetCode-100/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/harisharen222/LeetCode-100/tree/master/0074-search-a-2d-matrix) |
