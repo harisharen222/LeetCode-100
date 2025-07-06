@@ -10,6 +10,8 @@ public:
             for(int j=0 ; j<9 ; j++){
                 char c = board[i][j];
                 if(c != '.'){
+                    int box = ((i/3)*3)+(j/3);
+
                     if(col[j].count(c)){
                         return false;
                     }
@@ -18,14 +20,13 @@ public:
                         return false;
                     }
                     row[i].insert(c);
-                }
-                int box = ((i/3)*3)+(j/3);
-                if(c != '.'){
+
                     if(grid[box].count(c)){
                         return false;
                     }
                     grid[box].insert(c);
                 }
+                
             }
         }
         return true;
