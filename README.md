@@ -200,6 +200,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 | [0557-reverse-words-in-a-string-iii](https://github.com/harisharen222/LeetCode-100/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/harisharen222/LeetCode-100/tree/master/0567-permutation-in-string) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/harisharen222/LeetCode-100/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1894-merge-strings-alternately](https://github.com/harisharen222/LeetCode-100/tree/master/1894-merge-strings-alternately) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/harisharen222/LeetCode-100/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/harisharen222/LeetCode-100/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/harisharen222/LeetCode-100/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
@@ -231,6 +232,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 | [0443-string-compression](https://github.com/harisharen222/LeetCode-100/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/harisharen222/LeetCode-100/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/harisharen222/LeetCode-100/tree/master/0567-permutation-in-string) |
+| [1894-merge-strings-alternately](https://github.com/harisharen222/LeetCode-100/tree/master/1894-merge-strings-alternately) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/harisharen222/LeetCode-100/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 ## Bit Manipulation
 |  |
