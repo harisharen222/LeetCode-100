@@ -194,6 +194,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 | [0242-valid-anagram](https://github.com/harisharen222/LeetCode-100/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/harisharen222/LeetCode-100/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/harisharen222/LeetCode-100/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/harisharen222/LeetCode-100/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/harisharen222/LeetCode-100/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/harisharen222/LeetCode-100/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/harisharen222/LeetCode-100/tree/master/0443-string-compression) |
@@ -228,6 +229,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 | [0202-happy-number](https://github.com/harisharen222/LeetCode-100/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/harisharen222/LeetCode-100/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/harisharen222/LeetCode-100/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/harisharen222/LeetCode-100/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/harisharen222/LeetCode-100/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/harisharen222/LeetCode-100/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/harisharen222/LeetCode-100/tree/master/0443-string-compression) |
