@@ -67,6 +67,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 | [1016-subarray-sums-divisible-by-k](https://github.com/harisharen222/LeetCode-100/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/harisharen222/LeetCode-100/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1319-unique-number-of-occurrences](https://github.com/harisharen222/LeetCode-100/tree/master/1319-unique-number-of-occurrences) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/harisharen222/LeetCode-100/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/harisharen222/LeetCode-100/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/harisharen222/LeetCode-100/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/harisharen222/LeetCode-100/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -129,6 +130,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/harisharen222/LeetCode-100/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0594-longest-harmonious-subsequence](https://github.com/harisharen222/LeetCode-100/tree/master/0594-longest-harmonious-subsequence) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/harisharen222/LeetCode-100/tree/master/0987-reveal-cards-in-increasing-order) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/harisharen222/LeetCode-100/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/harisharen222/LeetCode-100/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [2117-find-original-array-from-doubled-array](https://github.com/harisharen222/LeetCode-100/tree/master/2117-find-original-array-from-doubled-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/harisharen222/LeetCode-100/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -269,6 +271,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 | [0135-candy](https://github.com/harisharen222/LeetCode-100/tree/master/0135-candy) |
 | [0410-split-array-largest-sum](https://github.com/harisharen222/LeetCode-100/tree/master/0410-split-array-largest-sum) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/harisharen222/LeetCode-100/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/harisharen222/LeetCode-100/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/harisharen222/LeetCode-100/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [2117-find-original-array-from-doubled-array](https://github.com/harisharen222/LeetCode-100/tree/master/2117-find-original-array-from-doubled-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/harisharen222/LeetCode-100/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -279,6 +282,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/harisharen222/LeetCode-100/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/harisharen222/LeetCode-100/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/harisharen222/LeetCode-100/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 ## Quickselect
 |  |
 | ------- |
