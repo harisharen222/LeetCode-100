@@ -54,6 +54,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 | [0268-missing-number](https://github.com/harisharen222/LeetCode-100/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/harisharen222/LeetCode-100/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/harisharen222/LeetCode-100/tree/master/0283-move-zeroes) |
+| [0334-increasing-triplet-subsequence](https://github.com/harisharen222/LeetCode-100/tree/master/0334-increasing-triplet-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/harisharen222/LeetCode-100/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/harisharen222/LeetCode-100/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/harisharen222/LeetCode-100/tree/master/0410-split-array-largest-sum) |
@@ -275,6 +276,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/harisharen222/LeetCode-100/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/harisharen222/LeetCode-100/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/harisharen222/LeetCode-100/tree/master/0135-candy) |
+| [0334-increasing-triplet-subsequence](https://github.com/harisharen222/LeetCode-100/tree/master/0334-increasing-triplet-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/harisharen222/LeetCode-100/tree/master/0410-split-array-largest-sum) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/harisharen222/LeetCode-100/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/harisharen222/LeetCode-100/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
