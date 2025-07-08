@@ -61,6 +61,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 | [0442-find-all-duplicates-in-an-array](https://github.com/harisharen222/LeetCode-100/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/harisharen222/LeetCode-100/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/harisharen222/LeetCode-100/tree/master/0594-longest-harmonious-subsequence) |
+| [0605-can-place-flowers](https://github.com/harisharen222/LeetCode-100/tree/master/0605-can-place-flowers) |
 | [0724-find-pivot-index](https://github.com/harisharen222/LeetCode-100/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/harisharen222/LeetCode-100/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/harisharen222/LeetCode-100/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -278,6 +279,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 | [0135-candy](https://github.com/harisharen222/LeetCode-100/tree/master/0135-candy) |
 | [0334-increasing-triplet-subsequence](https://github.com/harisharen222/LeetCode-100/tree/master/0334-increasing-triplet-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/harisharen222/LeetCode-100/tree/master/0410-split-array-largest-sum) |
+| [0605-can-place-flowers](https://github.com/harisharen222/LeetCode-100/tree/master/0605-can-place-flowers) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/harisharen222/LeetCode-100/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/harisharen222/LeetCode-100/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/harisharen222/LeetCode-100/tree/master/1683-maximum-number-of-coins-you-can-get) |
