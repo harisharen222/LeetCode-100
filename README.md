@@ -65,6 +65,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 | [0724-find-pivot-index](https://github.com/harisharen222/LeetCode-100/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/harisharen222/LeetCode-100/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/harisharen222/LeetCode-100/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0907-koko-eating-bananas](https://github.com/harisharen222/LeetCode-100/tree/master/0907-koko-eating-bananas) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/harisharen222/LeetCode-100/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/harisharen222/LeetCode-100/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/harisharen222/LeetCode-100/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
@@ -176,6 +177,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 | [0410-split-array-largest-sum](https://github.com/harisharen222/LeetCode-100/tree/master/0410-split-array-largest-sum) |
 | [0792-binary-search](https://github.com/harisharen222/LeetCode-100/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/harisharen222/LeetCode-100/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0907-koko-eating-bananas](https://github.com/harisharen222/LeetCode-100/tree/master/0907-koko-eating-bananas) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/harisharen222/LeetCode-100/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 ## String
 |  |
