@@ -62,6 +62,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 | [0560-subarray-sum-equals-k](https://github.com/harisharen222/LeetCode-100/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/harisharen222/LeetCode-100/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/harisharen222/LeetCode-100/tree/master/0605-can-place-flowers) |
+| [0643-maximum-average-subarray-i](https://github.com/harisharen222/LeetCode-100/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/harisharen222/LeetCode-100/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/harisharen222/LeetCode-100/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/harisharen222/LeetCode-100/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -337,6 +338,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 | [0219-contains-duplicate-ii](https://github.com/harisharen222/LeetCode-100/tree/master/0219-contains-duplicate-ii) |
 | [0567-permutation-in-string](https://github.com/harisharen222/LeetCode-100/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/harisharen222/LeetCode-100/tree/master/0594-longest-harmonious-subsequence) |
+| [0643-maximum-average-subarray-i](https://github.com/harisharen222/LeetCode-100/tree/master/0643-maximum-average-subarray-i) |
 ## Counting
 |  |
 | ------- |
