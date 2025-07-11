@@ -5,7 +5,7 @@ public:
         unordered_set<int>s1(nums1.begin() , nums1.end());
         unordered_set<int>s2(nums2.begin() , nums2.end());
 
-        for(int x : s1){
+        for(auto& x : s1){
             if(s2.count(x) == 0){
                 ans[0].push_back(x);
             }
