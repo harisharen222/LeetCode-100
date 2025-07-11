@@ -10,10 +10,10 @@ public:
             // freq[num]++;
             int complement = k - num;
             if(freq[complement] > 0){
-                if(freq.count(complement)){
-                    operations++;
-                    freq[complement]--;
-                }
+                
+                operations++;
+                freq[complement]--;
+                
             }
             else{
                 freq[num]++;
