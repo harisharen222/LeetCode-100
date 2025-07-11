@@ -75,6 +75,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/harisharen222/LeetCode-100/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/harisharen222/LeetCode-100/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/harisharen222/LeetCode-100/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/harisharen222/LeetCode-100/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/harisharen222/LeetCode-100/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/harisharen222/LeetCode-100/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2058-concatenation-of-array](https://github.com/harisharen222/LeetCode-100/tree/master/2058-concatenation-of-array) |
@@ -152,6 +153,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/harisharen222/LeetCode-100/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/harisharen222/LeetCode-100/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/harisharen222/LeetCode-100/tree/master/0410-split-array-largest-sum) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/harisharen222/LeetCode-100/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/harisharen222/LeetCode-100/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Divide and Conquer
 |  |
@@ -345,6 +347,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 | [0643-maximum-average-subarray-i](https://github.com/harisharen222/LeetCode-100/tree/master/0643-maximum-average-subarray-i) |
 | [1046-max-consecutive-ones-iii](https://github.com/harisharen222/LeetCode-100/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/harisharen222/LeetCode-100/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/harisharen222/LeetCode-100/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Counting
 |  |
 | ------- |
