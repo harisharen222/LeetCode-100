@@ -208,6 +208,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 | [0567-permutation-in-string](https://github.com/harisharen222/LeetCode-100/tree/master/0567-permutation-in-string) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/harisharen222/LeetCode-100/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/harisharen222/LeetCode-100/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/harisharen222/LeetCode-100/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1894-merge-strings-alternately](https://github.com/harisharen222/LeetCode-100/tree/master/1894-merge-strings-alternately) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/harisharen222/LeetCode-100/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/harisharen222/LeetCode-100/tree/master/2260-divide-a-string-into-groups-of-size-k) |
@@ -339,6 +340,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 | [0567-permutation-in-string](https://github.com/harisharen222/LeetCode-100/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/harisharen222/LeetCode-100/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/harisharen222/LeetCode-100/tree/master/0643-maximum-average-subarray-i) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/harisharen222/LeetCode-100/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Counting
 |  |
 | ------- |
