@@ -4,7 +4,7 @@ public:
         int n = nums.size();
         int left = 0;
         int zeros = 0;
-        int maxi = INT_MIN;
+        int maxi = 0;
         for(int right = 0; right < n ; right++){
             if(nums[right] == 0)    zeros++;
             while(zeros > 1){
@@ -14,6 +14,8 @@ public:
                 left++;
             }
             maxi = max(maxi,right-left);
+            if(maxi == n) return n - 1;
+
         }
         return maxi;
     }
