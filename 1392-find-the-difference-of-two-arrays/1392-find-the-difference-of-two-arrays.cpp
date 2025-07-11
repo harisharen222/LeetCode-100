@@ -6,12 +6,12 @@ public:
         unordered_set<int>s2(nums2.begin() , nums2.end());
 
         for(int x : s1){
-            if(!s2.count(x)){
+            if(s2.count(x) == 0){
                 ans[0].push_back(x);
             }
         }
         for(int x : s2){
-            if(!s1.count(x)){
+            if(s1.count(x) == 0){
                 ans[1].push_back(x);
             }
         }
