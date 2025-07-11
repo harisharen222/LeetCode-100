@@ -72,6 +72,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 | [1046-max-consecutive-ones-iii](https://github.com/harisharen222/LeetCode-100/tree/master/1046-max-consecutive-ones-iii) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/harisharen222/LeetCode-100/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1319-unique-number-of-occurrences](https://github.com/harisharen222/LeetCode-100/tree/master/1319-unique-number-of-occurrences) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/harisharen222/LeetCode-100/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/harisharen222/LeetCode-100/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/harisharen222/LeetCode-100/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/harisharen222/LeetCode-100/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -117,6 +118,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 | [0594-longest-harmonious-subsequence](https://github.com/harisharen222/LeetCode-100/tree/master/0594-longest-harmonious-subsequence) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/harisharen222/LeetCode-100/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1319-unique-number-of-occurrences](https://github.com/harisharen222/LeetCode-100/tree/master/1319-unique-number-of-occurrences) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/harisharen222/LeetCode-100/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/harisharen222/LeetCode-100/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/harisharen222/LeetCode-100/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2117-find-original-array-from-doubled-array](https://github.com/harisharen222/LeetCode-100/tree/master/2117-find-original-array-from-doubled-array) |
