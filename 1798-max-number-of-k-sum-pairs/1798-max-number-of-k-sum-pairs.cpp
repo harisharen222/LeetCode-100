@@ -6,7 +6,7 @@ public:
         int j = n-1;
         int operations = 0;
         unordered_map<int,int> freq;
-        for(int num : nums){
+        for(const auto& num : nums){
             // freq[num]++;
             int complement = k - num;
             if(freq[complement] > 0){
