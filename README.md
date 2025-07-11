@@ -78,6 +78,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/harisharen222/LeetCode-100/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/harisharen222/LeetCode-100/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/harisharen222/LeetCode-100/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1833-find-the-highest-altitude](https://github.com/harisharen222/LeetCode-100/tree/master/1833-find-the-highest-altitude) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/harisharen222/LeetCode-100/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2058-concatenation-of-array](https://github.com/harisharen222/LeetCode-100/tree/master/2058-concatenation-of-array) |
 | [2102-find-the-middle-index-in-array](https://github.com/harisharen222/LeetCode-100/tree/master/2102-find-the-middle-index-in-array) |
@@ -281,6 +282,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 | [0724-find-pivot-index](https://github.com/harisharen222/LeetCode-100/tree/master/0724-find-pivot-index) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/harisharen222/LeetCode-100/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/harisharen222/LeetCode-100/tree/master/1046-max-consecutive-ones-iii) |
+| [1833-find-the-highest-altitude](https://github.com/harisharen222/LeetCode-100/tree/master/1833-find-the-highest-altitude) |
 | [2102-find-the-middle-index-in-array](https://github.com/harisharen222/LeetCode-100/tree/master/2102-find-the-middle-index-in-array) |
 ## Greedy
 |  |
