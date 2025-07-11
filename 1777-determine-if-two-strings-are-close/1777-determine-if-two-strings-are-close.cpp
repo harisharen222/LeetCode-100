@@ -3,7 +3,7 @@ public:
     bool closeStrings(string word1, string word2) {
         unordered_map<char,int>freq1;
         unordered_map<char,int>freq2;
-        set<char>s1,s2;
+        unordered_set<char>s1,s2;
         for(char c : word1){
             freq1[c]++;
             s1.insert(c);
@@ -14,10 +14,12 @@ public:
         }
 
         if(s1 != s2)    return false;
-        multiset<int>m1,m2;
-        for(auto& [key,value] : freq1)  m1.insert(value);
-        for(auto& [key,value] : freq2)  m2.insert(value);
+        vector<int> f1, f2;
+        for (auto& [_, count] : freq1) f1.push_back(count);
+        for (auto& [_, count] : freq2) f2.push_back(count);
+        sort(f1.begin(), f1.end());
+        sort(f2.begin(), f2.end());
         
-        return m1==m2;
+        return f1==f2;
     }
 };
