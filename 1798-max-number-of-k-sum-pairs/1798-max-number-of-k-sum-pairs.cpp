@@ -4,21 +4,19 @@ public:
         int n = nums.size();
         int i = 0;
         int j = n-1;
-        sort(nums.begin(),nums.end());
-        int sum = 0;
         int operations = 0;
-        while(i < j){
-            sum = nums[i] + nums[j];
-            if(sum == k){
-                operations++;
-                i++;
-                j--;
-            }
-            else if(sum > k){
-                j--;
+        unordered_map<int,int> freq;
+        for(int num : nums){
+            // freq[num]++;
+            int complement = k - num;
+            if(freq[complement] > 0){
+                if(freq.count(complement)){
+                    operations++;
+                    freq[complement]--;
+                }
             }
             else{
-                i++;
+                freq[num]++;
             }
         }
         return operations;
