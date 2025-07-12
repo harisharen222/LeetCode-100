@@ -89,6 +89,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/harisharen222/LeetCode-100/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/harisharen222/LeetCode-100/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/harisharen222/LeetCode-100/tree/master/2421-maximum-number-of-pairs-in-array) |
+| [2428-equal-row-and-column-pairs](https://github.com/harisharen222/LeetCode-100/tree/master/2428-equal-row-and-column-pairs) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/harisharen222/LeetCode-100/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Hash Table
 |  |
@@ -124,6 +125,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 | [1798-max-number-of-k-sum-pairs](https://github.com/harisharen222/LeetCode-100/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2117-find-original-array-from-doubled-array](https://github.com/harisharen222/LeetCode-100/tree/master/2117-find-original-array-from-doubled-array) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/harisharen222/LeetCode-100/tree/master/2421-maximum-number-of-pairs-in-array) |
+| [2428-equal-row-and-column-pairs](https://github.com/harisharen222/LeetCode-100/tree/master/2428-equal-row-and-column-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -343,6 +345,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/harisharen222/LeetCode-100/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2058-concatenation-of-array](https://github.com/harisharen222/LeetCode-100/tree/master/2058-concatenation-of-array) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/harisharen222/LeetCode-100/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2428-equal-row-and-column-pairs](https://github.com/harisharen222/LeetCode-100/tree/master/2428-equal-row-and-column-pairs) |
 | [2886-faulty-keyboard](https://github.com/harisharen222/LeetCode-100/tree/master/2886-faulty-keyboard) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/harisharen222/LeetCode-100/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Sliding Window
@@ -384,6 +387,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 | [0074-search-a-2d-matrix](https://github.com/harisharen222/LeetCode-100/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/harisharen222/LeetCode-100/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/harisharen222/LeetCode-100/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [2428-equal-row-and-column-pairs](https://github.com/harisharen222/LeetCode-100/tree/master/2428-equal-row-and-column-pairs) |
 ## Enumeration
 |  |
 | ------- |
