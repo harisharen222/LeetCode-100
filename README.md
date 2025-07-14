@@ -157,6 +157,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/harisharen222/LeetCode-100/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/harisharen222/LeetCode-100/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/harisharen222/LeetCode-100/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/harisharen222/LeetCode-100/tree/master/0053-maximum-subarray) |
@@ -201,6 +202,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/harisharen222/LeetCode-100/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/harisharen222/LeetCode-100/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/harisharen222/LeetCode-100/tree/master/0006-zigzag-conversion) |
 | [0013-roman-to-integer](https://github.com/harisharen222/LeetCode-100/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/harisharen222/LeetCode-100/tree/master/0014-longest-common-prefix) |
@@ -235,6 +237,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/harisharen222/LeetCode-100/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/harisharen222/LeetCode-100/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/harisharen222/LeetCode-100/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/harisharen222/LeetCode-100/tree/master/0016-3sum-closest) |
