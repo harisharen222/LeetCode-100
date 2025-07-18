@@ -27,6 +27,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 | [0053-maximum-subarray](https://github.com/harisharen222/LeetCode-100/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/harisharen222/LeetCode-100/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/harisharen222/LeetCode-100/tree/master/0055-jump-game) |
+| [0066-plus-one](https://github.com/harisharen222/LeetCode-100/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/harisharen222/LeetCode-100/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/harisharen222/LeetCode-100/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/harisharen222/LeetCode-100/tree/master/0074-search-a-2d-matrix) |
@@ -278,6 +279,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 | ------- |
 | [0013-roman-to-integer](https://github.com/harisharen222/LeetCode-100/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/harisharen222/LeetCode-100/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/harisharen222/LeetCode-100/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/harisharen222/LeetCode-100/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/harisharen222/LeetCode-100/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/harisharen222/LeetCode-100/tree/master/0202-happy-number) |
