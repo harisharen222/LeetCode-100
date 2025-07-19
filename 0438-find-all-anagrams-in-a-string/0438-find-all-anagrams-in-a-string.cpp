@@ -1,8 +1,10 @@
 class Solution {
 public:
     vector<int> findAnagrams(string s, string p) {
+
         int n = s.length();
         int m = p.length();
+        if(n<m) return {};
         vector<int> pCount(26, 0), sCount(26, 0);
         for(char c : p){
             pCount[c-'a']++;
