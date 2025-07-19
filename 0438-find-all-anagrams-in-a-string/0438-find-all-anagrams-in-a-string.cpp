@@ -3,22 +3,20 @@ public:
     vector<int> findAnagrams(string s, string p) {
         int n = s.length();
         int m = p.length();
-        unordered_map<char,int>anagram;
+        vector<int> pCount(26, 0), sCount(26, 0);
         for(char c : p){
-            anagram[c]++;
+            pCount[c-'a']++;
         }
-        unordered_map<char,int>freq;
+
         vector<int>ans;
 
         for(int i=0 ; i<n ; i++){
-            freq[s[i]]++;
+            sCount[s[i]-'a']++;
             if(i >= m){
-                freq[s[i - m]]--;  // remove char going out of window
-                if (freq[s[i - m]] == 0) {
-                    freq.erase(s[i - m]);  // clean up
-                }
+                sCount[s[i - m]-'a']--;  // remove char going out of window
+                
             }
-            if(freq == anagram){
+            if(sCount == pCount){
                 ans.push_back(i-m+1);
             }
         }
