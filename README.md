@@ -55,6 +55,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 | [0268-missing-number](https://github.com/harisharen222/LeetCode-100/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/harisharen222/LeetCode-100/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/harisharen222/LeetCode-100/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/harisharen222/LeetCode-100/tree/master/0287-find-the-duplicate-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/harisharen222/LeetCode-100/tree/master/0334-increasing-triplet-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/harisharen222/LeetCode-100/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/harisharen222/LeetCode-100/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -192,6 +193,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 | [0209-minimum-size-subarray-sum](https://github.com/harisharen222/LeetCode-100/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/harisharen222/LeetCode-100/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/harisharen222/LeetCode-100/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/harisharen222/LeetCode-100/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/harisharen222/LeetCode-100/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/harisharen222/LeetCode-100/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/harisharen222/LeetCode-100/tree/master/0410-split-array-largest-sum) |
@@ -259,6 +261,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 | [0189-rotate-array](https://github.com/harisharen222/LeetCode-100/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/harisharen222/LeetCode-100/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/harisharen222/LeetCode-100/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/harisharen222/LeetCode-100/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/harisharen222/LeetCode-100/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/harisharen222/LeetCode-100/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/harisharen222/LeetCode-100/tree/master/0349-intersection-of-two-arrays) |
@@ -275,6 +278,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 | ------- |
 | [0136-single-number](https://github.com/harisharen222/LeetCode-100/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/harisharen222/LeetCode-100/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/harisharen222/LeetCode-100/tree/master/0287-find-the-duplicate-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/harisharen222/LeetCode-100/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Math
 |  |
