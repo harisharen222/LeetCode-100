@@ -81,6 +81,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/harisharen222/LeetCode-100/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/harisharen222/LeetCode-100/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/harisharen222/LeetCode-100/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1813-maximum-erasure-value](https://github.com/harisharen222/LeetCode-100/tree/master/1813-maximum-erasure-value) |
 | [1833-find-the-highest-altitude](https://github.com/harisharen222/LeetCode-100/tree/master/1833-find-the-highest-altitude) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/harisharen222/LeetCode-100/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2058-concatenation-of-array](https://github.com/harisharen222/LeetCode-100/tree/master/2058-concatenation-of-array) |
@@ -127,6 +128,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 | [1510-find-lucky-integer-in-an-array](https://github.com/harisharen222/LeetCode-100/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1777-determine-if-two-strings-are-close](https://github.com/harisharen222/LeetCode-100/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/harisharen222/LeetCode-100/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1813-maximum-erasure-value](https://github.com/harisharen222/LeetCode-100/tree/master/1813-maximum-erasure-value) |
 | [2117-find-original-array-from-doubled-array](https://github.com/harisharen222/LeetCode-100/tree/master/2117-find-original-array-from-doubled-array) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/harisharen222/LeetCode-100/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2428-equal-row-and-column-pairs](https://github.com/harisharen222/LeetCode-100/tree/master/2428-equal-row-and-column-pairs) |
@@ -380,6 +382,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 | [1046-max-consecutive-ones-iii](https://github.com/harisharen222/LeetCode-100/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/harisharen222/LeetCode-100/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/harisharen222/LeetCode-100/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1813-maximum-erasure-value](https://github.com/harisharen222/LeetCode-100/tree/master/1813-maximum-erasure-value) |
 ## Counting
 |  |
 | ------- |
