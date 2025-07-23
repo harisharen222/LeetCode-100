@@ -236,6 +236,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 | [1302-delete-characters-to-make-fancy-string](https://github.com/harisharen222/LeetCode-100/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/harisharen222/LeetCode-100/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1777-determine-if-two-strings-are-close](https://github.com/harisharen222/LeetCode-100/tree/master/1777-determine-if-two-strings-are-close) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/harisharen222/LeetCode-100/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1894-merge-strings-alternately](https://github.com/harisharen222/LeetCode-100/tree/master/1894-merge-strings-alternately) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/harisharen222/LeetCode-100/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/harisharen222/LeetCode-100/tree/master/2260-divide-a-string-into-groups-of-size-k) |
@@ -324,6 +325,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/harisharen222/LeetCode-100/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/harisharen222/LeetCode-100/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/harisharen222/LeetCode-100/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/harisharen222/LeetCode-100/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2117-find-original-array-from-doubled-array](https://github.com/harisharen222/LeetCode-100/tree/master/2117-find-original-array-from-doubled-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/harisharen222/LeetCode-100/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/harisharen222/LeetCode-100/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
@@ -397,6 +399,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 | ------- |
 | [0042-trapping-rain-water](https://github.com/harisharen222/LeetCode-100/tree/master/0042-trapping-rain-water) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/harisharen222/LeetCode-100/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/harisharen222/LeetCode-100/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/harisharen222/LeetCode-100/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Matrix
 |  |
