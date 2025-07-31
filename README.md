@@ -32,6 +32,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 | [0073-set-matrix-zeroes](https://github.com/harisharen222/LeetCode-100/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/harisharen222/LeetCode-100/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/harisharen222/LeetCode-100/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/harisharen222/LeetCode-100/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/harisharen222/LeetCode-100/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/harisharen222/LeetCode-100/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harisharen222/LeetCode-100/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -283,6 +284,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/harisharen222/LeetCode-100/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/harisharen222/LeetCode-100/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/harisharen222/LeetCode-100/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/harisharen222/LeetCode-100/tree/master/0287-find-the-duplicate-number) |
@@ -462,4 +464,5 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/harisharen222/LeetCode-100/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0078-subsets](https://github.com/harisharen222/LeetCode-100/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
