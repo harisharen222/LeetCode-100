@@ -71,6 +71,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 | [0792-binary-search](https://github.com/harisharen222/LeetCode-100/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/harisharen222/LeetCode-100/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/harisharen222/LeetCode-100/tree/master/0907-koko-eating-bananas) |
+| [0940-fruit-into-baskets](https://github.com/harisharen222/LeetCode-100/tree/master/0940-fruit-into-baskets) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/harisharen222/LeetCode-100/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/harisharen222/LeetCode-100/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/harisharen222/LeetCode-100/tree/master/1046-max-consecutive-ones-iii) |
@@ -126,6 +127,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 | [0560-subarray-sum-equals-k](https://github.com/harisharen222/LeetCode-100/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/harisharen222/LeetCode-100/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/harisharen222/LeetCode-100/tree/master/0594-longest-harmonious-subsequence) |
+| [0940-fruit-into-baskets](https://github.com/harisharen222/LeetCode-100/tree/master/0940-fruit-into-baskets) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/harisharen222/LeetCode-100/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1319-unique-number-of-occurrences](https://github.com/harisharen222/LeetCode-100/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/harisharen222/LeetCode-100/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -389,6 +391,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 | [0567-permutation-in-string](https://github.com/harisharen222/LeetCode-100/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/harisharen222/LeetCode-100/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/harisharen222/LeetCode-100/tree/master/0643-maximum-average-subarray-i) |
+| [0940-fruit-into-baskets](https://github.com/harisharen222/LeetCode-100/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/harisharen222/LeetCode-100/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/harisharen222/LeetCode-100/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/harisharen222/LeetCode-100/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
