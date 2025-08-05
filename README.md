@@ -99,6 +99,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 | [2428-equal-row-and-column-pairs](https://github.com/harisharen222/LeetCode-100/tree/master/2428-equal-row-and-column-pairs) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/harisharen222/LeetCode-100/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/harisharen222/LeetCode-100/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3790-fruits-into-baskets-ii](https://github.com/harisharen222/LeetCode-100/tree/master/3790-fruits-into-baskets-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -211,6 +212,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 | [0907-koko-eating-bananas](https://github.com/harisharen222/LeetCode-100/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/harisharen222/LeetCode-100/tree/master/1046-max-consecutive-ones-iii) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/harisharen222/LeetCode-100/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
+| [3790-fruits-into-baskets-ii](https://github.com/harisharen222/LeetCode-100/tree/master/3790-fruits-into-baskets-ii) |
 ## String
 |  |
 | ------- |
@@ -379,6 +381,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 | [2428-equal-row-and-column-pairs](https://github.com/harisharen222/LeetCode-100/tree/master/2428-equal-row-and-column-pairs) |
 | [2886-faulty-keyboard](https://github.com/harisharen222/LeetCode-100/tree/master/2886-faulty-keyboard) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/harisharen222/LeetCode-100/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3790-fruits-into-baskets-ii](https://github.com/harisharen222/LeetCode-100/tree/master/3790-fruits-into-baskets-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -470,4 +473,12 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/harisharen222/LeetCode-100/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0078-subsets](https://github.com/harisharen222/LeetCode-100/tree/master/0078-subsets) |
+## Segment Tree
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/harisharen222/LeetCode-100/tree/master/3790-fruits-into-baskets-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/harisharen222/LeetCode-100/tree/master/3790-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
