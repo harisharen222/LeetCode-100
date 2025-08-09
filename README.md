@@ -292,6 +292,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 | ------- |
 | [0078-subsets](https://github.com/harisharen222/LeetCode-100/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/harisharen222/LeetCode-100/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/harisharen222/LeetCode-100/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/harisharen222/LeetCode-100/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/harisharen222/LeetCode-100/tree/master/0287-find-the-duplicate-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/harisharen222/LeetCode-100/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -306,6 +307,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 | [0189-rotate-array](https://github.com/harisharen222/LeetCode-100/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/harisharen222/LeetCode-100/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/harisharen222/LeetCode-100/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/harisharen222/LeetCode-100/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/harisharen222/LeetCode-100/tree/master/0268-missing-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/harisharen222/LeetCode-100/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/harisharen222/LeetCode-100/tree/master/1683-maximum-number-of-coins-you-can-get) |
@@ -457,6 +459,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/harisharen222/LeetCode-100/tree/master/0231-power-of-two) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/harisharen222/LeetCode-100/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Union Find
 |  |
