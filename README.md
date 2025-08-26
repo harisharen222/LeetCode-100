@@ -99,6 +99,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 | [2428-equal-row-and-column-pairs](https://github.com/harisharen222/LeetCode-100/tree/master/2428-equal-row-and-column-pairs) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/harisharen222/LeetCode-100/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/harisharen222/LeetCode-100/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/harisharen222/LeetCode-100/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3790-fruits-into-baskets-ii](https://github.com/harisharen222/LeetCode-100/tree/master/3790-fruits-into-baskets-ii) |
 ## Hash Table
 |  |
