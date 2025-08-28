@@ -101,6 +101,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/harisharen222/LeetCode-100/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/harisharen222/LeetCode-100/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/harisharen222/LeetCode-100/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3748-sort-matrix-by-diagonals](https://github.com/harisharen222/LeetCode-100/tree/master/3748-sort-matrix-by-diagonals) |
 | [3790-fruits-into-baskets-ii](https://github.com/harisharen222/LeetCode-100/tree/master/3790-fruits-into-baskets-ii) |
 ## Hash Table
 |  |
@@ -168,6 +169,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/harisharen222/LeetCode-100/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/harisharen222/LeetCode-100/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/harisharen222/LeetCode-100/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3748-sort-matrix-by-diagonals](https://github.com/harisharen222/LeetCode-100/tree/master/3748-sort-matrix-by-diagonals) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -433,6 +435,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/harisharen222/LeetCode-100/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0498-diagonal-traverse](https://github.com/harisharen222/LeetCode-100/tree/master/0498-diagonal-traverse) |
 | [2428-equal-row-and-column-pairs](https://github.com/harisharen222/LeetCode-100/tree/master/2428-equal-row-and-column-pairs) |
+| [3748-sort-matrix-by-diagonals](https://github.com/harisharen222/LeetCode-100/tree/master/3748-sort-matrix-by-diagonals) |
 ## Enumeration
 |  |
 | ------- |
