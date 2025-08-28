@@ -63,6 +63,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/harisharen222/LeetCode-100/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/harisharen222/LeetCode-100/tree/master/0410-split-array-largest-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/harisharen222/LeetCode-100/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0498-diagonal-traverse](https://github.com/harisharen222/LeetCode-100/tree/master/0498-diagonal-traverse) |
 | [0560-subarray-sum-equals-k](https://github.com/harisharen222/LeetCode-100/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/harisharen222/LeetCode-100/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/harisharen222/LeetCode-100/tree/master/0605-can-place-flowers) |
@@ -378,6 +379,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 | ------- |
 | [0054-spiral-matrix](https://github.com/harisharen222/LeetCode-100/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/harisharen222/LeetCode-100/tree/master/0068-text-justification) |
+| [0498-diagonal-traverse](https://github.com/harisharen222/LeetCode-100/tree/master/0498-diagonal-traverse) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/harisharen222/LeetCode-100/tree/master/0987-reveal-cards-in-increasing-order) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/harisharen222/LeetCode-100/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2058-concatenation-of-array](https://github.com/harisharen222/LeetCode-100/tree/master/2058-concatenation-of-array) |
@@ -429,6 +431,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 | [0074-search-a-2d-matrix](https://github.com/harisharen222/LeetCode-100/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/harisharen222/LeetCode-100/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/harisharen222/LeetCode-100/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0498-diagonal-traverse](https://github.com/harisharen222/LeetCode-100/tree/master/0498-diagonal-traverse) |
 | [2428-equal-row-and-column-pairs](https://github.com/harisharen222/LeetCode-100/tree/master/2428-equal-row-and-column-pairs) |
 ## Enumeration
 |  |
