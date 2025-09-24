@@ -116,6 +116,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 | [0073-set-matrix-zeroes](https://github.com/harisharen222/LeetCode-100/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/harisharen222/LeetCode-100/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/harisharen222/LeetCode-100/tree/master/0128-longest-consecutive-sequence) |
+| [0166-fraction-to-recurring-decimal](https://github.com/harisharen222/LeetCode-100/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/harisharen222/LeetCode-100/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/harisharen222/LeetCode-100/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/harisharen222/LeetCode-100/tree/master/0205-isomorphic-strings) |
@@ -234,6 +235,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 | [0076-minimum-window-substring](https://github.com/harisharen222/LeetCode-100/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/harisharen222/LeetCode-100/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/harisharen222/LeetCode-100/tree/master/0151-reverse-words-in-a-string) |
+| [0166-fraction-to-recurring-decimal](https://github.com/harisharen222/LeetCode-100/tree/master/0166-fraction-to-recurring-decimal) |
 | [0205-isomorphic-strings](https://github.com/harisharen222/LeetCode-100/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/harisharen222/LeetCode-100/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/harisharen222/LeetCode-100/tree/master/0290-word-pattern) |
@@ -308,6 +310,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 | [0048-rotate-image](https://github.com/harisharen222/LeetCode-100/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/harisharen222/LeetCode-100/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/harisharen222/LeetCode-100/tree/master/0069-sqrtx) |
+| [0166-fraction-to-recurring-decimal](https://github.com/harisharen222/LeetCode-100/tree/master/0166-fraction-to-recurring-decimal) |
 | [0189-rotate-array](https://github.com/harisharen222/LeetCode-100/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/harisharen222/LeetCode-100/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/harisharen222/LeetCode-100/tree/master/0204-count-primes) |
