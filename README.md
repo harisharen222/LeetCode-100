@@ -302,6 +302,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 | [0268-missing-number](https://github.com/harisharen222/LeetCode-100/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/harisharen222/LeetCode-100/tree/master/0287-find-the-duplicate-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/harisharen222/LeetCode-100/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/harisharen222/LeetCode-100/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Math
 |  |
 | ------- |
@@ -320,6 +321,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 | [1146-greatest-common-divisor-of-strings](https://github.com/harisharen222/LeetCode-100/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/harisharen222/LeetCode-100/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/harisharen222/LeetCode-100/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/harisharen222/LeetCode-100/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Prefix Sum
 |  |
 | ------- |
