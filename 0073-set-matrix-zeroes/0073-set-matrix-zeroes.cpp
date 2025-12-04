@@ -4,18 +4,18 @@ public:
         int rows = matrix.size();
         int cols = matrix[0].size();
 
-        bool firstrowZero = false;
-        bool firstcolZero = false;
-        for (int i = 0; i < cols;i++) { // this is to check whether first row has any zero or not
-            if (matrix[0][i] == 0) {
-                firstrowZero = true;
+        bool firstRowZero = false;
+        bool firstColZero = false;
+
+        for(int i=0 ; i<rows ; i++){ //to check whether first column has any zero or not
+            if(matrix[i][0] == 0){
+                firstColZero = true;
             }
         }
 
-        for (int i = 0; i < rows;
-             i++) { // this is to check whether first column has any zero or not
-            if (matrix[i][0] == 0) {
-                firstcolZero = true;
+        for(int i=0 ; i<cols ; i++){  //to check whether first row has any zero or not
+            if(matrix[0][i] == 0){
+                firstRowZero = true;
             }
         }
 
@@ -42,15 +42,17 @@ public:
                 }
             }
         }
-        if (firstrowZero) {
+        if (firstRowZero) {
             for (int i = 0; i < cols; i++) {
                 matrix[0][i] = 0;
             }
         }
-        if (firstcolZero) {
+        if (firstColZero) {
             for (int i = 0; i < rows; i++) {
                 matrix[i][0] = 0;
             }
         }
+
+
     }
 };
