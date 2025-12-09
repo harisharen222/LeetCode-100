@@ -475,6 +475,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/harisharen222/LeetCode-100/tree/master/0024-swap-nodes-in-pairs) |
 | [0231-power-of-two](https://github.com/harisharen222/LeetCode-100/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/harisharen222/LeetCode-100/tree/master/0326-power-of-three) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/harisharen222/LeetCode-100/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -504,5 +505,6 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 ## Linked List
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/harisharen222/LeetCode-100/tree/master/0024-swap-nodes-in-pairs) |
 | [0086-partition-list](https://github.com/harisharen222/LeetCode-100/tree/master/0086-partition-list) |
 <!---LeetCode Topics End-->
