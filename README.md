@@ -276,6 +276,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 | [0042-trapping-rain-water](https://github.com/harisharen222/LeetCode-100/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/harisharen222/LeetCode-100/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/harisharen222/LeetCode-100/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0086-partition-list](https://github.com/harisharen222/LeetCode-100/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/harisharen222/LeetCode-100/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/harisharen222/LeetCode-100/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/harisharen222/LeetCode-100/tree/master/0151-reverse-words-in-a-string) |
@@ -500,4 +501,8 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/harisharen222/LeetCode-100/tree/master/3790-fruits-into-baskets-ii) |
+## Linked List
+|  |
+| ------- |
+| [0086-partition-list](https://github.com/harisharen222/LeetCode-100/tree/master/0086-partition-list) |
 <!---LeetCode Topics End-->
