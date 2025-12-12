@@ -295,6 +295,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 | [0567-permutation-in-string](https://github.com/harisharen222/LeetCode-100/tree/master/0567-permutation-in-string) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/harisharen222/LeetCode-100/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/harisharen222/LeetCode-100/tree/master/1894-merge-strings-alternately) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/harisharen222/LeetCode-100/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/harisharen222/LeetCode-100/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/harisharen222/LeetCode-100/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Bit Manipulation
@@ -433,6 +434,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/harisharen222/LeetCode-100/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/harisharen222/LeetCode-100/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/harisharen222/LeetCode-100/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/harisharen222/LeetCode-100/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Matrix
 |  |
 | ------- |
@@ -511,4 +513,5 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 | [0024-swap-nodes-in-pairs](https://github.com/harisharen222/LeetCode-100/tree/master/0024-swap-nodes-in-pairs) |
 | [0086-partition-list](https://github.com/harisharen222/LeetCode-100/tree/master/0086-partition-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/harisharen222/LeetCode-100/tree/master/1019-next-greater-node-in-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/harisharen222/LeetCode-100/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 <!---LeetCode Topics End-->
