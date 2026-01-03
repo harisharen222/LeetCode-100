@@ -95,6 +95,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/harisharen222/LeetCode-100/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2058-concatenation-of-array](https://github.com/harisharen222/LeetCode-100/tree/master/2058-concatenation-of-array) |
 | [2102-find-the-middle-index-in-array](https://github.com/harisharen222/LeetCode-100/tree/master/2102-find-the-middle-index-in-array) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/harisharen222/LeetCode-100/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2117-find-original-array-from-doubled-array](https://github.com/harisharen222/LeetCode-100/tree/master/2117-find-original-array-from-doubled-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/harisharen222/LeetCode-100/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/harisharen222/LeetCode-100/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
@@ -146,6 +147,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 | [1777-determine-if-two-strings-are-close](https://github.com/harisharen222/LeetCode-100/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/harisharen222/LeetCode-100/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1813-maximum-erasure-value](https://github.com/harisharen222/LeetCode-100/tree/master/1813-maximum-erasure-value) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/harisharen222/LeetCode-100/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2117-find-original-array-from-doubled-array](https://github.com/harisharen222/LeetCode-100/tree/master/2117-find-original-array-from-doubled-array) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/harisharen222/LeetCode-100/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2428-equal-row-and-column-pairs](https://github.com/harisharen222/LeetCode-100/tree/master/2428-equal-row-and-column-pairs) |
@@ -264,6 +266,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 | [1818-maximum-score-from-removing-substrings](https://github.com/harisharen222/LeetCode-100/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1894-merge-strings-alternately](https://github.com/harisharen222/LeetCode-100/tree/master/1894-merge-strings-alternately) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/harisharen222/LeetCode-100/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/harisharen222/LeetCode-100/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/harisharen222/LeetCode-100/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/harisharen222/LeetCode-100/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2886-faulty-keyboard](https://github.com/harisharen222/LeetCode-100/tree/master/2886-faulty-keyboard) |
@@ -563,4 +566,9 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 |  |
 | ------- |
 | [1377-frog-position-after-t-seconds](https://github.com/harisharen222/LeetCode-100/tree/master/1377-frog-position-after-t-seconds) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/harisharen222/LeetCode-100/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
+## Topological Sort
+|  |
+| ------- |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/harisharen222/LeetCode-100/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 <!---LeetCode Topics End-->
