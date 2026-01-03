@@ -433,6 +433,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/harisharen222/LeetCode-100/tree/master/0042-trapping-rain-water) |
+| [0155-min-stack](https://github.com/harisharen222/LeetCode-100/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/harisharen222/LeetCode-100/tree/master/0232-implement-queue-using-stacks) |
 | [1019-next-greater-node-in-linked-list](https://github.com/harisharen222/LeetCode-100/tree/master/1019-next-greater-node-in-linked-list) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/harisharen222/LeetCode-100/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -525,5 +526,6 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/harisharen222/LeetCode-100/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/harisharen222/LeetCode-100/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
