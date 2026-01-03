@@ -545,12 +545,22 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 |  |
 | ------- |
 | [0337-house-robber-iii](https://github.com/harisharen222/LeetCode-100/tree/master/0337-house-robber-iii) |
+| [1377-frog-position-after-t-seconds](https://github.com/harisharen222/LeetCode-100/tree/master/1377-frog-position-after-t-seconds) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0337-house-robber-iii](https://github.com/harisharen222/LeetCode-100/tree/master/0337-house-robber-iii) |
+| [1377-frog-position-after-t-seconds](https://github.com/harisharen222/LeetCode-100/tree/master/1377-frog-position-after-t-seconds) |
 ## Binary Tree
 |  |
 | ------- |
 | [0337-house-robber-iii](https://github.com/harisharen222/LeetCode-100/tree/master/0337-house-robber-iii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1377-frog-position-after-t-seconds](https://github.com/harisharen222/LeetCode-100/tree/master/1377-frog-position-after-t-seconds) |
+## Graph
+|  |
+| ------- |
+| [1377-frog-position-after-t-seconds](https://github.com/harisharen222/LeetCode-100/tree/master/1377-frog-position-after-t-seconds) |
 <!---LeetCode Topics End-->
