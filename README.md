@@ -195,6 +195,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 | [0392-is-subsequence](https://github.com/harisharen222/LeetCode-100/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/harisharen222/LeetCode-100/tree/master/0410-split-array-largest-sum) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/harisharen222/LeetCode-100/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/harisharen222/LeetCode-100/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/harisharen222/LeetCode-100/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Divide and Conquer
 |  |
@@ -334,6 +335,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 | [0326-power-of-three](https://github.com/harisharen222/LeetCode-100/tree/master/0326-power-of-three) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/harisharen222/LeetCode-100/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/harisharen222/LeetCode-100/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/harisharen222/LeetCode-100/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/harisharen222/LeetCode-100/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/harisharen222/LeetCode-100/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Prefix Sum
@@ -549,6 +551,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 | ------- |
 | [0337-house-robber-iii](https://github.com/harisharen222/LeetCode-100/tree/master/0337-house-robber-iii) |
 | [1377-frog-position-after-t-seconds](https://github.com/harisharen222/LeetCode-100/tree/master/1377-frog-position-after-t-seconds) |
+| [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/harisharen222/LeetCode-100/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -566,9 +569,15 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 |  |
 | ------- |
 | [1377-frog-position-after-t-seconds](https://github.com/harisharen222/LeetCode-100/tree/master/1377-frog-position-after-t-seconds) |
+| [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/harisharen222/LeetCode-100/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/harisharen222/LeetCode-100/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 ## Topological Sort
 |  |
 | ------- |
+| [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/harisharen222/LeetCode-100/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/harisharen222/LeetCode-100/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
+## Combinatorics
+|  |
+| ------- |
+| [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/harisharen222/LeetCode-100/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 <!---LeetCode Topics End-->
