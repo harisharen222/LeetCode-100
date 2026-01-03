@@ -387,6 +387,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/harisharen222/LeetCode-100/tree/master/0232-implement-queue-using-stacks) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/harisharen222/LeetCode-100/tree/master/0987-reveal-cards-in-increasing-order) |
 ## Simulation
 |  |
@@ -432,6 +433,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/harisharen222/LeetCode-100/tree/master/0042-trapping-rain-water) |
+| [0232-implement-queue-using-stacks](https://github.com/harisharen222/LeetCode-100/tree/master/0232-implement-queue-using-stacks) |
 | [1019-next-greater-node-in-linked-list](https://github.com/harisharen222/LeetCode-100/tree/master/1019-next-greater-node-in-linked-list) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/harisharen222/LeetCode-100/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/harisharen222/LeetCode-100/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -520,4 +522,8 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 | [1019-next-greater-node-in-linked-list](https://github.com/harisharen222/LeetCode-100/tree/master/1019-next-greater-node-in-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/harisharen222/LeetCode-100/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/harisharen222/LeetCode-100/tree/master/2487-remove-nodes-from-linked-list) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/harisharen222/LeetCode-100/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
