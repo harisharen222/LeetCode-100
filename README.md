@@ -90,6 +90,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/harisharen222/LeetCode-100/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/harisharen222/LeetCode-100/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/harisharen222/LeetCode-100/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/harisharen222/LeetCode-100/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/harisharen222/LeetCode-100/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1813-maximum-erasure-value](https://github.com/harisharen222/LeetCode-100/tree/master/1813-maximum-erasure-value) |
 | [1833-find-the-highest-altitude](https://github.com/harisharen222/LeetCode-100/tree/master/1833-find-the-highest-altitude) |
