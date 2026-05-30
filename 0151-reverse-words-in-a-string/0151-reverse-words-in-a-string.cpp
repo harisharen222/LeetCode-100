@@ -1,43 +1,29 @@
 class Solution {
 public:
     string reverseWords(string s) {
+        reverse(s.begin() , s.end());
         string result = "";
         int n = s.length();
-        int i = n-1;
-        
-        while( s[i] == ' ' ){ //to remove trailing spaces
-            i--;
-        }
-        int j = i;
-
-        while( i>=0 && j>=0 ){
-            if( i>=0 && s[i] != ' '){
-                i--;
+        int i = 0;
+        while( i<n ){
+            if(i<n && s[i] == ' '){
+                i++;
                 continue;
             }
-            string sub = s.substr(i+1, j-i);
-            if(result.length() > 0){
-                
-                result += " ";
+            string word = "";
+            while( i<n && s[i] != ' '){
+                word += s[i];
+                i++;
             }
-            result += sub;
             
-            j = i;
-            while(j>=0 && s[j] == ' ' ){
-                j--;
+            reverse(word.begin() , word.end());
+            if(word.length() > 0){
+                if(result.length() > 0){
+                    result += " " + word;
+                }
+                else    result += word;
             }
-            i = j;
         }
-        string sub = s.substr(i+1, j-i);
-        if(sub.length() > 0){
-            if(result.length() > 0) result += " ";
-        }
-        result += sub;
-        
-
-
-
         return result;
-
     }
 };
