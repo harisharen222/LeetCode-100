@@ -272,6 +272,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 | [1777-determine-if-two-strings-are-close](https://github.com/harisharen222/LeetCode-100/tree/master/1777-determine-if-two-strings-are-close) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/harisharen222/LeetCode-100/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1894-merge-strings-alternately](https://github.com/harisharen222/LeetCode-100/tree/master/1894-merge-strings-alternately) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/harisharen222/LeetCode-100/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/harisharen222/LeetCode-100/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/harisharen222/LeetCode-100/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/harisharen222/LeetCode-100/tree/master/2260-divide-a-string-into-groups-of-size-k) |
@@ -414,6 +415,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 | [0068-text-justification](https://github.com/harisharen222/LeetCode-100/tree/master/0068-text-justification) |
 | [0498-diagonal-traverse](https://github.com/harisharen222/LeetCode-100/tree/master/0498-diagonal-traverse) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/harisharen222/LeetCode-100/tree/master/0987-reveal-cards-in-increasing-order) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/harisharen222/LeetCode-100/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/harisharen222/LeetCode-100/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2058-concatenation-of-array](https://github.com/harisharen222/LeetCode-100/tree/master/2058-concatenation-of-array) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/harisharen222/LeetCode-100/tree/master/2260-divide-a-string-into-groups-of-size-k) |
@@ -458,6 +460,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 | [1019-next-greater-node-in-linked-list](https://github.com/harisharen222/LeetCode-100/tree/master/1019-next-greater-node-in-linked-list) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/harisharen222/LeetCode-100/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/harisharen222/LeetCode-100/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/harisharen222/LeetCode-100/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/harisharen222/LeetCode-100/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/harisharen222/LeetCode-100/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/harisharen222/LeetCode-100/tree/master/2487-remove-nodes-from-linked-list) |
