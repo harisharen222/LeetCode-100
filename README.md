@@ -265,6 +265,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 | [0443-string-compression](https://github.com/harisharen222/LeetCode-100/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/harisharen222/LeetCode-100/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/harisharen222/LeetCode-100/tree/master/0567-permutation-in-string) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/harisharen222/LeetCode-100/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/harisharen222/LeetCode-100/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/harisharen222/LeetCode-100/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/harisharen222/LeetCode-100/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -458,6 +459,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 | [0232-implement-queue-using-stacks](https://github.com/harisharen222/LeetCode-100/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/harisharen222/LeetCode-100/tree/master/0496-next-greater-element-i) |
 | [1019-next-greater-node-in-linked-list](https://github.com/harisharen222/LeetCode-100/tree/master/1019-next-greater-node-in-linked-list) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/harisharen222/LeetCode-100/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/harisharen222/LeetCode-100/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/harisharen222/LeetCode-100/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/harisharen222/LeetCode-100/tree/master/1910-remove-all-occurrences-of-a-substring) |
