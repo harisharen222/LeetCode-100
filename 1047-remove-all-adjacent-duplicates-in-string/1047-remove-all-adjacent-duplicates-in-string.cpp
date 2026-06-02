@@ -7,9 +7,7 @@ public:
                 s.erase(i-1,2);
                 i = 1;
             }
-            else{
-                i++;
-            }
+            else    i++;
         }
         return s;
     }
