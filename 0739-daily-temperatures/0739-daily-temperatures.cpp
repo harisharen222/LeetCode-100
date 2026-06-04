@@ -7,10 +7,10 @@ public:
         for(int i = 0 ; i<n ; i++){
             //remove elements when top < arr[i]
 
-            while(!temps.empty() && temperatures[temps.top()] < temperatures[i]){
-                int len = i - temps.top();
-                result[temps.top()] = len;
+            while(!temps.empty() && temperatures[temps.top()] < temperatures[i]) {
+                int idx = temps.top();
                 temps.pop();
+                result[idx] = i - idx;
             }
             temps.push(i);
         }
