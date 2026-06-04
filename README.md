@@ -73,6 +73,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 | [0605-can-place-flowers](https://github.com/harisharen222/LeetCode-100/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/harisharen222/LeetCode-100/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/harisharen222/LeetCode-100/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/harisharen222/LeetCode-100/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/harisharen222/LeetCode-100/tree/master/0792-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/harisharen222/LeetCode-100/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/harisharen222/LeetCode-100/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -458,6 +459,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 | [0155-min-stack](https://github.com/harisharen222/LeetCode-100/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/harisharen222/LeetCode-100/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/harisharen222/LeetCode-100/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/harisharen222/LeetCode-100/tree/master/0739-daily-temperatures) |
 | [1019-next-greater-node-in-linked-list](https://github.com/harisharen222/LeetCode-100/tree/master/1019-next-greater-node-in-linked-list) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/harisharen222/LeetCode-100/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/harisharen222/LeetCode-100/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -500,6 +502,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 | ------- |
 | [0042-trapping-rain-water](https://github.com/harisharen222/LeetCode-100/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/harisharen222/LeetCode-100/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/harisharen222/LeetCode-100/tree/master/0739-daily-temperatures) |
 | [1019-next-greater-node-in-linked-list](https://github.com/harisharen222/LeetCode-100/tree/master/1019-next-greater-node-in-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/harisharen222/LeetCode-100/tree/master/2487-remove-nodes-from-linked-list) |
 ## Trie
