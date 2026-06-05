@@ -1,25 +1,41 @@
+class Node {
+public:
+    int data;
+    Node* next;
+
+    Node(int val){
+        data = val;
+        next = nullptr;
+    }
+};
+
 class MyCircularQueue {
 public:
-    vector<int>arr;
-    int front;
-    int rear;
+    Node* front;
+    Node* rear;
     int size;
     int capacity;
-
     MyCircularQueue(int k) {
-        arr.resize(k);
-        front = 0;
-        rear = -1;
         size = 0;
         capacity = k;
+        front = nullptr;
+        rear = nullptr;
     }
     
     bool enQueue(int value) {
         if(isFull()){
             return false;
         }
-        rear = (rear + 1) % capacity;
-        arr[rear] = value;
+
+        Node* newNode = new Node(value);
+
+        if(front == nullptr){
+            front = rear = newNode;
+        }
+        else{
+            rear->next = newNode;
+            rear = newNode;
+        }
         size++;
         return true;
     }
@@ -28,24 +44,31 @@ public:
         if(isEmpty()){
             return false;
         }
-        front = (front + 1) % capacity;
+        if(front == rear){
+            delete front;
+            front = rear = nullptr;
+        }
+        else{
+            Node* temp = front;
+            front = front->next;
+            delete temp;
+        }
         size--;
         return true;
-
     }
     
     int Front() {
         if(size == 0){
             return -1;
         }
-        return arr[front];
+        return front->data;
     }
     
     int Rear() {
         if(size == 0){
             return -1;
         }
-        return arr[rear];
+        return rear->data;
     }
     
     bool isEmpty() {
