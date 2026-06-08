@@ -91,6 +91,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 | [1510-find-lucky-integer-in-an-array](https://github.com/harisharen222/LeetCode-100/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/harisharen222/LeetCode-100/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/harisharen222/LeetCode-100/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1670-design-front-middle-back-queue](https://github.com/harisharen222/LeetCode-100/tree/master/1670-design-front-middle-back-queue) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/harisharen222/LeetCode-100/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/harisharen222/LeetCode-100/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/harisharen222/LeetCode-100/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -412,6 +413,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 | [0239-sliding-window-maximum](https://github.com/harisharen222/LeetCode-100/tree/master/0239-sliding-window-maximum) |
 | [0622-design-circular-queue](https://github.com/harisharen222/LeetCode-100/tree/master/0622-design-circular-queue) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/harisharen222/LeetCode-100/tree/master/0987-reveal-cards-in-increasing-order) |
+| [1670-design-front-middle-back-queue](https://github.com/harisharen222/LeetCode-100/tree/master/1670-design-front-middle-back-queue) |
 ## Simulation
 |  |
 | ------- |
@@ -553,6 +555,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 | [0086-partition-list](https://github.com/harisharen222/LeetCode-100/tree/master/0086-partition-list) |
 | [0622-design-circular-queue](https://github.com/harisharen222/LeetCode-100/tree/master/0622-design-circular-queue) |
 | [1019-next-greater-node-in-linked-list](https://github.com/harisharen222/LeetCode-100/tree/master/1019-next-greater-node-in-linked-list) |
+| [1670-design-front-middle-back-queue](https://github.com/harisharen222/LeetCode-100/tree/master/1670-design-front-middle-back-queue) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/harisharen222/LeetCode-100/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/harisharen222/LeetCode-100/tree/master/2487-remove-nodes-from-linked-list) |
 ## Design
@@ -561,6 +564,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 | [0155-min-stack](https://github.com/harisharen222/LeetCode-100/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/harisharen222/LeetCode-100/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/harisharen222/LeetCode-100/tree/master/0622-design-circular-queue) |
+| [1670-design-front-middle-back-queue](https://github.com/harisharen222/LeetCode-100/tree/master/1670-design-front-middle-back-queue) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -604,4 +608,12 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 |  |
 | ------- |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/harisharen222/LeetCode-100/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1670-design-front-middle-back-queue](https://github.com/harisharen222/LeetCode-100/tree/master/1670-design-front-middle-back-queue) |
+## Data Stream
+|  |
+| ------- |
+| [1670-design-front-middle-back-queue](https://github.com/harisharen222/LeetCode-100/tree/master/1670-design-front-middle-back-queue) |
 <!---LeetCode Topics End-->
