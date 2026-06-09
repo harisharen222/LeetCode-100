@@ -523,6 +523,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/harisharen222/LeetCode-100/tree/master/0024-swap-nodes-in-pairs) |
+| [0206-reverse-linked-list](https://github.com/harisharen222/LeetCode-100/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/harisharen222/LeetCode-100/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/harisharen222/LeetCode-100/tree/master/0326-power-of-three) |
 | [2487-remove-nodes-from-linked-list](https://github.com/harisharen222/LeetCode-100/tree/master/2487-remove-nodes-from-linked-list) |
@@ -555,6 +556,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/harisharen222/LeetCode-100/tree/master/0024-swap-nodes-in-pairs) |
 | [0086-partition-list](https://github.com/harisharen222/LeetCode-100/tree/master/0086-partition-list) |
+| [0206-reverse-linked-list](https://github.com/harisharen222/LeetCode-100/tree/master/0206-reverse-linked-list) |
 | [0622-design-circular-queue](https://github.com/harisharen222/LeetCode-100/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/harisharen222/LeetCode-100/tree/master/0641-design-circular-deque) |
 | [1019-next-greater-node-in-linked-list](https://github.com/harisharen222/LeetCode-100/tree/master/1019-next-greater-node-in-linked-list) |
