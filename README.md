@@ -522,6 +522,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/harisharen222/LeetCode-100/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/harisharen222/LeetCode-100/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/harisharen222/LeetCode-100/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/harisharen222/LeetCode-100/tree/master/0231-power-of-two) |
@@ -554,6 +555,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/harisharen222/LeetCode-100/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/harisharen222/LeetCode-100/tree/master/0024-swap-nodes-in-pairs) |
 | [0086-partition-list](https://github.com/harisharen222/LeetCode-100/tree/master/0086-partition-list) |
 | [0206-reverse-linked-list](https://github.com/harisharen222/LeetCode-100/tree/master/0206-reverse-linked-list) |
