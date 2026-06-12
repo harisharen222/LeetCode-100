@@ -295,6 +295,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 | [0011-container-with-most-water](https://github.com/harisharen222/LeetCode-100/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/harisharen222/LeetCode-100/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/harisharen222/LeetCode-100/tree/master/0016-3sum-closest) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/harisharen222/LeetCode-100/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/harisharen222/LeetCode-100/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/harisharen222/LeetCode-100/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/harisharen222/LeetCode-100/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -565,6 +566,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/harisharen222/LeetCode-100/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/harisharen222/LeetCode-100/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/harisharen222/LeetCode-100/tree/master/0024-swap-nodes-in-pairs) |
 | [0086-partition-list](https://github.com/harisharen222/LeetCode-100/tree/master/0086-partition-list) |
