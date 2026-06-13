@@ -4,12 +4,15 @@
  *     int val;
  *     ListNode *next;
  *     ListNode() : val(0), next(nullptr) {}
+
  *     ListNode(int x) : val(x), next(nullptr) {}
+
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
 class Solution {
 public:
+
     ListNode* removeNthFromEnd(ListNode* head, int n) {
         ListNode* temp = head;
 
@@ -28,14 +31,21 @@ public:
         else{
             int cnt = 1;
             ListNode* curr = head->next;
+            
             while(cnt < nodePos-1){
+
                 temp = temp->next;
+
                 curr = curr->next;
+
                 cnt++;
             }
+
             temp->next = curr->next;
+
             delete(curr);
         }
+
         return head;
     }
 };
