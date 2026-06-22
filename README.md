@@ -229,6 +229,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/harisharen222/LeetCode-100/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harisharen222/LeetCode-100/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/harisharen222/LeetCode-100/tree/master/0209-minimum-size-subarray-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/harisharen222/LeetCode-100/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/harisharen222/LeetCode-100/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/harisharen222/LeetCode-100/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/harisharen222/LeetCode-100/tree/master/0287-find-the-duplicate-number) |
@@ -334,6 +335,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 | ------- |
 | [0078-subsets](https://github.com/harisharen222/LeetCode-100/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/harisharen222/LeetCode-100/tree/master/0136-single-number) |
+| [0222-count-complete-tree-nodes](https://github.com/harisharen222/LeetCode-100/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/harisharen222/LeetCode-100/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/harisharen222/LeetCode-100/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/harisharen222/LeetCode-100/tree/master/0287-find-the-duplicate-number) |
@@ -599,6 +601,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/harisharen222/LeetCode-100/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/harisharen222/LeetCode-100/tree/master/0222-count-complete-tree-nodes) |
 | [0337-house-robber-iii](https://github.com/harisharen222/LeetCode-100/tree/master/0337-house-robber-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/harisharen222/LeetCode-100/tree/master/0543-diameter-of-binary-tree) |
 | [1377-frog-position-after-t-seconds](https://github.com/harisharen222/LeetCode-100/tree/master/1377-frog-position-after-t-seconds) |
@@ -614,6 +617,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/harisharen222/LeetCode-100/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/harisharen222/LeetCode-100/tree/master/0222-count-complete-tree-nodes) |
 | [0337-house-robber-iii](https://github.com/harisharen222/LeetCode-100/tree/master/0337-house-robber-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/harisharen222/LeetCode-100/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
