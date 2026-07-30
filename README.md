@@ -344,6 +344,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/harisharen222/LeetCode-100/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/harisharen222/LeetCode-100/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/harisharen222/LeetCode-100/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/harisharen222/LeetCode-100/tree/master/0048-rotate-image) |
@@ -535,6 +536,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/harisharen222/LeetCode-100/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/harisharen222/LeetCode-100/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/harisharen222/LeetCode-100/tree/master/0024-swap-nodes-in-pairs) |
 | [0143-reorder-list](https://github.com/harisharen222/LeetCode-100/tree/master/0143-reorder-list) |
@@ -569,6 +571,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/harisharen222/LeetCode-100/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/harisharen222/LeetCode-100/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/harisharen222/LeetCode-100/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/harisharen222/LeetCode-100/tree/master/0024-swap-nodes-in-pairs) |
