@@ -1,16 +1,22 @@
 class Solution {
 public:
-    vector<vector<int>> subsets(vector<int>& nums) {
-        vector<vector<int>> sets{{}};
+    void solve(int idx, vector<int>& nums, vector<int>& curr, vector<vector<int>>& ans){
+        if(idx == nums.size()){
+            ans.push_back(curr);
+            return;
+        }
+        curr.push_back(nums[idx]);
+        solve(idx+1,nums,curr,ans);
 
-        for(int i : nums){
-            int n = sets.size();
-            for(int j=0 ; j<n ; j++){
-                vector<int>subset = sets[j];
-                subset.push_back(i);
-                sets.push_back(subset);
-            }
-        }   
-        return sets;
+        curr.pop_back();
+        solve(idx+1,nums,curr,ans);
+    }
+    vector<vector<int>> subsets(vector<int>& nums) {
+        vector<vector<int>> ans;
+        vector<int> current;
+        int index = 0;
+        solve(index,nums,current,ans);
+        return ans;
+        
     }
 };
