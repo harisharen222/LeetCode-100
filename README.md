@@ -22,6 +22,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 | [0036-valid-sudoku](https://github.com/harisharen222/LeetCode-100/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/harisharen222/LeetCode-100/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/harisharen222/LeetCode-100/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/harisharen222/LeetCode-100/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/harisharen222/LeetCode-100/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/harisharen222/LeetCode-100/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/harisharen222/LeetCode-100/tree/master/0053-maximum-subarray) |
@@ -563,6 +564,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/harisharen222/LeetCode-100/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0046-permutations](https://github.com/harisharen222/LeetCode-100/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/harisharen222/LeetCode-100/tree/master/0078-subsets) |
 ## Segment Tree
 |  |
