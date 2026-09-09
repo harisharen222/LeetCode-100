@@ -1,11 +1,11 @@
 class Solution {
 public:
-    void solve(int i, vector<int>&curr,vector<vector<int>>& ans, vector<int>&nums,int k){
+    void solve(int i, vector<int>& curr,vector<vector<int>>& ans, vector<int>& nums,int k){
         if(curr.size() == k){
             ans.push_back(curr);
             return;
         }
-        if(nums.size() - i < k - curr.size())
+        if(i == nums.size())
             return;
         
         
