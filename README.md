@@ -565,6 +565,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/harisharen222/LeetCode-100/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0046-permutations](https://github.com/harisharen222/LeetCode-100/tree/master/0046-permutations) |
+| [0077-combinations](https://github.com/harisharen222/LeetCode-100/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/harisharen222/LeetCode-100/tree/master/0078-subsets) |
 ## Segment Tree
 |  |
