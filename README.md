@@ -561,6 +561,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 | ------- |
 | [0183-customers-who-never-order](https://github.com/harisharen222/LeetCode-100/tree/master/0183-customers-who-never-order) |
 | [0595-big-countries](https://github.com/harisharen222/LeetCode-100/tree/master/0595-big-countries) |
+| [1068-product-sales-analysis-i](https://github.com/harisharen222/LeetCode-100/tree/master/1068-product-sales-analysis-i) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/harisharen222/LeetCode-100/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1908-recyclable-and-low-fat-products](https://github.com/harisharen222/LeetCode-100/tree/master/1908-recyclable-and-low-fat-products) |
 ## Backtracking
