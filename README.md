@@ -565,6 +565,7 @@ The LeetCode 100 Challenge is a structured path designed by LeetCode to help use
 | [1068-product-sales-analysis-i](https://github.com/harisharen222/LeetCode-100/tree/master/1068-product-sales-analysis-i) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/harisharen222/LeetCode-100/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/harisharen222/LeetCode-100/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
+| [1661-average-time-of-process-per-machine](https://github.com/harisharen222/LeetCode-100/tree/master/1661-average-time-of-process-per-machine) |
 | [1908-recyclable-and-low-fat-products](https://github.com/harisharen222/LeetCode-100/tree/master/1908-recyclable-and-low-fat-products) |
 ## Backtracking
 |  |
